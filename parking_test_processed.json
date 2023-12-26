@@ -1,0 +1,1122 @@
+[
+  {
+    "place_name": "Taipei New World Montessori Elementary School",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u52e4\u885751\u865f",
+    "lat": "25.0321558",
+    "lon": "121.5636172",
+    "type": "school"
+  },
+  {
+    "place_name": "Nouvelle Vague School",
+    "address": " 3F, No. 415\u4fe1\u7fa9\u8def\u56db\u6bb5\u4fe1\u7fa9\u5340\u53f0\u5317\u5e02110",
+    "lat": "25.033337",
+    "lon": "121.5593118",
+    "type": "school"
+  },
+  {
+    "place_name": "Guangfu Elementary School",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u5149\u5fa9\u5357\u8def271\u865f",
+    "lat": "25.0402306",
+    "lon": "121.5581897",
+    "type": "school"
+  },
+  {
+    "place_name": "Taipei Municipal Xinyi Junior High School",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u4ec1\u8def158\u5df71\u865f",
+    "lat": "25.0288257",
+    "lon": "121.5677566",
+    "type": "school"
+  },
+  {
+    "place_name": "Taipei Municipal Xinyi Elementary School",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u52e4\u885760\u865f",
+    "lat": "25.0312351",
+    "lon": "121.5629977",
+    "type": "school"
+  },
+  {
+    "place_name": "\u5fb7\u7f8e\u8499\u7279\u68ad\u5229\u5e7c\u5152\u5712",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u5fb7\u7f8e\u88572-3\u865f",
+    "lat": "25.0329636",
+    "lon": "121.5654268",
+    "type": "school"
+  },
+  {
+    "place_name": "Happy Kids",
+    "address": " 106\u53f0\u5317\u5e02\u5927\u5b89\u5340\u4fe1\u7fa9\u8def\u56db\u6bb596\u865f",
+    "lat": "25.032967",
+    "lon": "121.547849",
+    "type": "school"
+  },
+  {
+    "place_name": "Noodoe EV Charging Station",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u9ad8\u8def1\u865f",
+    "lat": "25.0398909",
+    "lon": "121.5642222",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "BMW Destination Charging Station",
+    "address": " 7\u865f, No. 85\u4fe1\u7fa9\u8def\u4e94\u6bb5\u4fe1\u7fa9\u5340\u53f0\u5317\u5e02110",
+    "lat": "25.033964",
+    "lon": "121.5645483",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "Noodoe EV Charging Station",
+    "address": " Fushou RdTaipei110TW",
+    "lat": "25.0392613",
+    "lon": "121.5584484",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "Porsche Smart Mobility GmbH Charging Station",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u4ec1\u8def58\u865f",
+    "lat": "25.0368937",
+    "lon": "121.5678935",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "Noodoe EV Charging Station",
+    "address": " 106\u53f0\u5317\u5e02\u5927\u5b89\u5340\u4ec1\u611b\u8def\u56db\u6bb5118\u865f",
+    "lat": "25.0376437",
+    "lon": "121.5501682",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "Noodoe EV Charging Station",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u9ad8\u8def1\u865f",
+    "lat": "25.0398909",
+    "lon": "121.5642222",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "BMW Destination Charging Station",
+    "address": " 7\u865f, No. 85\u4fe1\u7fa9\u8def\u4e94\u6bb5\u4fe1\u7fa9\u5340\u53f0\u5317\u5e02110",
+    "lat": "25.033964",
+    "lon": "121.5645483",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "Noodoe EV Charging Station",
+    "address": " Fushou RdTaipei110TW",
+    "lat": "25.0392613",
+    "lon": "121.5584484",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "Porsche Smart Mobility GmbH Charging Station",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u4ec1\u8def58\u865f",
+    "lat": "25.0368937",
+    "lon": "121.5678935",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "Noodoe EV Charging Station",
+    "address": " 106\u53f0\u5317\u5e02\u5927\u5b89\u5340\u4ec1\u611b\u8def\u56db\u6bb5118\u865f",
+    "lat": "25.0376437",
+    "lon": "121.5501682",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "National Taiwan University",
+    "address": " 10617\u53f0\u5317\u5e02\u5927\u5b89\u5340\u7f85\u65af\u798f\u8def\u56db\u6bb51\u865f",
+    "lat": "25.0173405",
+    "lon": "121.5397518",
+    "type": "university"
+  },
+  {
+    "place_name": "National Taiwan Normal University",
+    "address": " 106\u53f0\u5317\u5e02\u5927\u5b89\u5340\u548c\u5e73\u6771\u8def\u4e00\u6bb5162\u865f",
+    "lat": "25.0260878",
+    "lon": "121.5275484",
+    "type": "university"
+  },
+  {
+    "place_name": "Taipei Medical University",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u5433\u8208\u8857250\u865f",
+    "lat": "25.0253125",
+    "lon": "121.5613608",
+    "type": "university"
+  },
+  {
+    "place_name": "National Taiwan University Shuiyuan Campus",
+    "address": " 100\u53f0\u5317\u5e02\u4e2d\u6b63\u5340\u601d\u6e90\u885718\u865f",
+    "lat": "25.0139558",
+    "lon": "121.5294531",
+    "type": "university"
+  },
+  {
+    "place_name": "University of Kang Ning Taipei Campus",
+    "address": " 114\u53f0\u5317\u5e02\u5167\u6e56\u5340\u5eb7\u5be7\u8def\u4e09\u6bb575\u5df7137\u865f",
+    "lat": "25.0757493",
+    "lon": "121.6094778",
+    "type": "university"
+  },
+  {
+    "place_name": "Soochow University Downtown Campus",
+    "address": " 100\u53f0\u5317\u5e02\u4e2d\u6b63\u5340\u8cb4\u967d\u8857\u4e00\u6bb556\u865f",
+    "lat": "25.0388477",
+    "lon": "121.5098858",
+    "type": "university"
+  },
+  {
+    "place_name": "National Chengchi University",
+    "address": " 116\u53f0\u5317\u5e02\u6587\u5c71\u5340\u6307\u5357\u8def\u4e8c\u6bb564\u865f",
+    "lat": "24.9878632",
+    "lon": "121.5774304",
+    "type": "university"
+  },
+  {
+    "place_name": "Taipei 101 Shopping center",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u5e02\u5e9c\u8def45 \u865f",
+    "lat": "25.0341222",
+    "lon": "121.5640212",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "BELLAVITA",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u4ec1\u8def28\u865f",
+    "lat": "25.0397075",
+    "lon": "121.5678251",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Breeze SongGao",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u9ad8\u8def16\u865f",
+    "lat": "25.0385509",
+    "lon": "121.567355",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Breeze Nan Shan",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u667a\u8def17\u865f",
+    "lat": "25.0343073",
+    "lon": "121.5659555",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Chlo\u00e9 Kids \u5fae\u98a8\u5357\u5c71",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340110\u677e\u667a\u8def17\u865fB1 Chole Kids",
+    "lat": "25.034367",
+    "lon": "121.5661283",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Taipei New World Montessori Elementary School",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u52e4\u885751\u865f",
+    "lat": "25.0321558",
+    "lon": "121.5636172",
+    "type": "school"
+  },
+  {
+    "place_name": "Nouvelle Vague School",
+    "address": " 3F, No. 415\u4fe1\u7fa9\u8def\u56db\u6bb5\u4fe1\u7fa9\u5340\u53f0\u5317\u5e02110",
+    "lat": "25.033337",
+    "lon": "121.5593118",
+    "type": "school"
+  },
+  {
+    "place_name": "Guangfu Elementary School",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u5149\u5fa9\u5357\u8def271\u865f",
+    "lat": "25.0402306",
+    "lon": "121.5581897",
+    "type": "school"
+  },
+  {
+    "place_name": "Taipei Municipal Xinyi Junior High School",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u4ec1\u8def158\u5df71\u865f",
+    "lat": "25.0288257",
+    "lon": "121.5677566",
+    "type": "school"
+  },
+  {
+    "place_name": "Taipei Municipal Xinyi Elementary School",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u52e4\u885760\u865f",
+    "lat": "25.0312351",
+    "lon": "121.5629977",
+    "type": "school"
+  },
+  {
+    "place_name": "\u5fb7\u7f8e\u8499\u7279\u68ad\u5229\u5e7c\u5152\u5712",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u5fb7\u7f8e\u88572-3\u865f",
+    "lat": "25.0329636",
+    "lon": "121.5654268",
+    "type": "school"
+  },
+  {
+    "place_name": "Happy Kids",
+    "address": " 106\u53f0\u5317\u5e02\u5927\u5b89\u5340\u4fe1\u7fa9\u8def\u56db\u6bb596\u865f",
+    "lat": "25.032967",
+    "lon": "121.547849",
+    "type": "school"
+  },
+  {
+    "place_name": "Noodoe EV Charging Station",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u9ad8\u8def1\u865f",
+    "lat": "25.0398909",
+    "lon": "121.5642222",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "BMW Destination Charging Station",
+    "address": " 7\u865f, No. 85\u4fe1\u7fa9\u8def\u4e94\u6bb5\u4fe1\u7fa9\u5340\u53f0\u5317\u5e02110",
+    "lat": "25.033964",
+    "lon": "121.5645483",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "Noodoe EV Charging Station",
+    "address": " Fushou RdTaipei110TW",
+    "lat": "25.0392613",
+    "lon": "121.5584484",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "Porsche Smart Mobility GmbH Charging Station",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u4ec1\u8def58\u865f",
+    "lat": "25.0368937",
+    "lon": "121.5678935",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "Noodoe EV Charging Station",
+    "address": " 106\u53f0\u5317\u5e02\u5927\u5b89\u5340\u4ec1\u611b\u8def\u56db\u6bb5118\u865f",
+    "lat": "25.0376437",
+    "lon": "121.5501682",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "Noodoe EV Charging Station",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u9ad8\u8def1\u865f",
+    "lat": "25.0398909",
+    "lon": "121.5642222",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "BMW Destination Charging Station",
+    "address": " 7\u865f, No. 85\u4fe1\u7fa9\u8def\u4e94\u6bb5\u4fe1\u7fa9\u5340\u53f0\u5317\u5e02110",
+    "lat": "25.033964",
+    "lon": "121.5645483",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "Noodoe EV Charging Station",
+    "address": " Fushou RdTaipei110TW",
+    "lat": "25.0392613",
+    "lon": "121.5584484",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "Porsche Smart Mobility GmbH Charging Station",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u4ec1\u8def58\u865f",
+    "lat": "25.0368937",
+    "lon": "121.5678935",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "Noodoe EV Charging Station",
+    "address": " 106\u53f0\u5317\u5e02\u5927\u5b89\u5340\u4ec1\u611b\u8def\u56db\u6bb5118\u865f",
+    "lat": "25.0376437",
+    "lon": "121.5501682",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "National Taiwan University",
+    "address": " 10617\u53f0\u5317\u5e02\u5927\u5b89\u5340\u7f85\u65af\u798f\u8def\u56db\u6bb51\u865f",
+    "lat": "25.0173405",
+    "lon": "121.5397518",
+    "type": "university"
+  },
+  {
+    "place_name": "National Taiwan Normal University",
+    "address": " 106\u53f0\u5317\u5e02\u5927\u5b89\u5340\u548c\u5e73\u6771\u8def\u4e00\u6bb5162\u865f",
+    "lat": "25.0260878",
+    "lon": "121.5275484",
+    "type": "university"
+  },
+  {
+    "place_name": "Taipei Medical University",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u5433\u8208\u8857250\u865f",
+    "lat": "25.0253125",
+    "lon": "121.5613608",
+    "type": "university"
+  },
+  {
+    "place_name": "National Taiwan University Shuiyuan Campus",
+    "address": " 100\u53f0\u5317\u5e02\u4e2d\u6b63\u5340\u601d\u6e90\u885718\u865f",
+    "lat": "25.0139558",
+    "lon": "121.5294531",
+    "type": "university"
+  },
+  {
+    "place_name": "University of Kang Ning Taipei Campus",
+    "address": " 114\u53f0\u5317\u5e02\u5167\u6e56\u5340\u5eb7\u5be7\u8def\u4e09\u6bb575\u5df7137\u865f",
+    "lat": "25.0757493",
+    "lon": "121.6094778",
+    "type": "university"
+  },
+  {
+    "place_name": "Soochow University Downtown Campus",
+    "address": " 100\u53f0\u5317\u5e02\u4e2d\u6b63\u5340\u8cb4\u967d\u8857\u4e00\u6bb556\u865f",
+    "lat": "25.0388477",
+    "lon": "121.5098858",
+    "type": "university"
+  },
+  {
+    "place_name": "National Chengchi University",
+    "address": " 116\u53f0\u5317\u5e02\u6587\u5c71\u5340\u6307\u5357\u8def\u4e8c\u6bb564\u865f",
+    "lat": "24.9878632",
+    "lon": "121.5774304",
+    "type": "university"
+  },
+  {
+    "place_name": "Taipei 101 Shopping center",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u5e02\u5e9c\u8def45 \u865f",
+    "lat": "25.0341222",
+    "lon": "121.5640212",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "BELLAVITA",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u4ec1\u8def28\u865f",
+    "lat": "25.0397075",
+    "lon": "121.5678251",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Breeze SongGao",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u9ad8\u8def16\u865f",
+    "lat": "25.0385509",
+    "lon": "121.567355",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Breeze Nan Shan",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u667a\u8def17\u865f",
+    "lat": "25.0343073",
+    "lon": "121.5659555",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Chlo\u00e9 Kids \u5fae\u98a8\u5357\u5c71",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340110\u677e\u667a\u8def17\u865fB1 Chole Kids",
+    "lat": "25.034367",
+    "lon": "121.5661283",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Taipei Municipal Xinyi Elementary School",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u52e4\u885760\u865f",
+    "lat": "25.0312351",
+    "lon": "121.5629977",
+    "type": "school"
+  },
+  {
+    "place_name": "Taipei Municipal Xinyi Junior High School",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u4ec1\u8def158\u5df71\u865f",
+    "lat": "25.0288257",
+    "lon": "121.5677566",
+    "type": "school"
+  },
+  {
+    "place_name": "Taipei Municipal WuXing Elementary School",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u4ec1\u8def226\u865f",
+    "lat": "25.0255934",
+    "lon": "121.5683186",
+    "type": "school"
+  },
+  {
+    "place_name": "\u92fc\u7434\u5230\u5e9c\u6559\u5b78\uff08\u4fe1\u7fa9\u5340\uff09",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u5433\u8208\u8857269\u5df71\u5f04",
+    "lat": "25.0275276",
+    "lon": "121.563913",
+    "type": "school"
+  },
+  {
+    "place_name": "Taipei New World Montessori Elementary School",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u52e4\u885751\u865f",
+    "lat": "25.0321558",
+    "lon": "121.5636172",
+    "type": "school"
+  },
+  {
+    "place_name": "\u660e\u8f1d\u6587\u7406\u88dc\u7fd2\u73ed",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u5433\u8208\u8857361\u5df74\u865f",
+    "lat": "25.0258009",
+    "lon": "121.5668269",
+    "type": "school"
+  },
+  {
+    "place_name": "\u5fb7\u7f8e\u8499\u7279\u68ad\u5229\u5e7c\u5152\u5712",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u5fb7\u7f8e\u88572-3\u865f",
+    "lat": "25.0329636",
+    "lon": "121.5654268",
+    "type": "school"
+  },
+  {
+    "place_name": "National Taiwan University",
+    "address": " 10617\u53f0\u5317\u5e02\u5927\u5b89\u5340\u7f85\u65af\u798f\u8def\u56db\u6bb51\u865f",
+    "lat": "25.0173405",
+    "lon": "121.5397518",
+    "type": "university"
+  },
+  {
+    "place_name": "Taipei Medical University",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u5433\u8208\u8857250\u865f",
+    "lat": "25.0253125",
+    "lon": "121.5613608",
+    "type": "university"
+  },
+  {
+    "place_name": "National Taiwan Normal University",
+    "address": " 106\u53f0\u5317\u5e02\u5927\u5b89\u5340\u548c\u5e73\u6771\u8def\u4e00\u6bb5162\u865f",
+    "lat": "25.0260878",
+    "lon": "121.5275484",
+    "type": "university"
+  },
+  {
+    "place_name": "National Taiwan University Shuiyuan Campus",
+    "address": " 100\u53f0\u5317\u5e02\u4e2d\u6b63\u5340\u601d\u6e90\u885718\u865f",
+    "lat": "25.0139558",
+    "lon": "121.5294531",
+    "type": "university"
+  },
+  {
+    "place_name": "University of Kang Ning Taipei Campus",
+    "address": " 114\u53f0\u5317\u5e02\u5167\u6e56\u5340\u5eb7\u5be7\u8def\u4e09\u6bb575\u5df7137\u865f",
+    "lat": "25.0757493",
+    "lon": "121.6094778",
+    "type": "university"
+  },
+  {
+    "place_name": "National Chengchi University",
+    "address": " 116\u53f0\u5317\u5e02\u6587\u5c71\u5340\u6307\u5357\u8def\u4e8c\u6bb564\u865f",
+    "lat": "24.9878632",
+    "lon": "121.5774304",
+    "type": "university"
+  },
+  {
+    "place_name": "Soochow University Downtown Campus",
+    "address": " 100\u53f0\u5317\u5e02\u4e2d\u6b63\u5340\u8cb4\u967d\u8857\u4e00\u6bb556\u865f",
+    "lat": "25.0388477",
+    "lon": "121.5098858",
+    "type": "university"
+  },
+  {
+    "place_name": "Taipei 101 Shopping center",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u5e02\u5e9c\u8def45 \u865f",
+    "lat": "25.0341222",
+    "lon": "121.5640212",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "BELLAVITA",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u4ec1\u8def28\u865f",
+    "lat": "25.0397075",
+    "lon": "121.5678251",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Breeze Nan Shan",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u667a\u8def17\u865f",
+    "lat": "25.0343073",
+    "lon": "121.5659555",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Chlo\u00e9 Kids \u5fae\u98a8\u5357\u5c71",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340110\u677e\u667a\u8def17\u865fB1 Chole Kids",
+    "lat": "25.034367",
+    "lon": "121.5661283",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Breeze Center",
+    "address": " 105\u53f0\u5317\u5e02\u677e\u5c71\u5340\u5fa9\u8208\u5357\u8def\u4e00\u6bb539\u865f",
+    "lat": "25.0461678",
+    "lon": "121.5445152",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Xing Ya Elementary School",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u57fa\u9686\u8def\u4e00\u6bb583\u5df79\u865f",
+    "lat": "25.047249",
+    "lon": "121.5696554",
+    "type": "school"
+  },
+  {
+    "place_name": "Young Ji Junior High School",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u9686\u8def161\u865f",
+    "lat": "25.0483189",
+    "lon": "121.5737906",
+    "type": "school"
+  },
+  {
+    "place_name": "\u6c88\u60e0\u82b3\u6587\u7406\u88dc\u7fd2\u73ed",
+    "address": " 11063\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u6c38\u5409\u8def185\u865f",
+    "lat": "25.0458093",
+    "lon": "121.5722553",
+    "type": "school"
+  },
+  {
+    "place_name": "Songshan Senior High School",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u57fa\u9686\u8def\u4e00\u6bb5156\u865f",
+    "lat": "25.0435047",
+    "lon": "121.565387",
+    "type": "school"
+  },
+  {
+    "place_name": "Meiko School Taipei Yongji",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u6c38\u5409\u8def119\u865f",
+    "lat": "25.0458519",
+    "lon": "121.57017",
+    "type": "school"
+  },
+  {
+    "place_name": "Andy's School \u6069\u8fea\u7f8e\u8a9e\u897f\u677e\u5206\u6821",
+    "address": " 105\u53f0\u5317\u5e02\u677e\u5c71\u5340\u5357\u4eac\u6771\u8def\u4e94\u6bb5202\u865f2\u6a13\u4e4b5",
+    "lat": "25.0512258",
+    "lon": "121.5647862",
+    "type": "school"
+  },
+  {
+    "place_name": "Taipei Songshan Elementary School",
+    "address": " 104\u53f0\u5317\u5e02\u677e\u5c71\u5340\u516b\u5fb7\u8def\u56db\u6bb5746\u865f",
+    "lat": "25.0504278",
+    "lon": "121.5782972",
+    "type": "school"
+  },
+  {
+    "place_name": "National Taiwan University",
+    "address": " 10617\u53f0\u5317\u5e02\u5927\u5b89\u5340\u7f85\u65af\u798f\u8def\u56db\u6bb51\u865f",
+    "lat": "25.0173405",
+    "lon": "121.5397518",
+    "type": "university"
+  },
+  {
+    "place_name": "National Taiwan Normal University",
+    "address": " 106\u53f0\u5317\u5e02\u5927\u5b89\u5340\u548c\u5e73\u6771\u8def\u4e00\u6bb5162\u865f",
+    "lat": "25.0260878",
+    "lon": "121.5275484",
+    "type": "university"
+  },
+  {
+    "place_name": "University of Kang Ning Taipei Campus",
+    "address": " 114\u53f0\u5317\u5e02\u5167\u6e56\u5340\u5eb7\u5be7\u8def\u4e09\u6bb575\u5df7137\u865f",
+    "lat": "25.0757493",
+    "lon": "121.6094778",
+    "type": "university"
+  },
+  {
+    "place_name": "National Taiwan University Shuiyuan Campus",
+    "address": " 100\u53f0\u5317\u5e02\u4e2d\u6b63\u5340\u601d\u6e90\u885718\u865f",
+    "lat": "25.0139558",
+    "lon": "121.5294531",
+    "type": "university"
+  },
+  {
+    "place_name": "Taipei Medical University",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u5433\u8208\u8857250\u865f",
+    "lat": "25.0253125",
+    "lon": "121.5613608",
+    "type": "university"
+  },
+  {
+    "place_name": "Soochow University Downtown Campus",
+    "address": " 100\u53f0\u5317\u5e02\u4e2d\u6b63\u5340\u8cb4\u967d\u8857\u4e00\u6bb556\u865f",
+    "lat": "25.0388477",
+    "lon": "121.5098858",
+    "type": "university"
+  },
+  {
+    "place_name": "Ming Chuan University Jihe Campus",
+    "address": " 111\u53f0\u5317\u5e02\u58eb\u6797\u5340\u57fa\u6cb3\u8def130\u865f",
+    "lat": "25.0891778",
+    "lon": "121.5226789",
+    "type": "university"
+  },
+  {
+    "place_name": "BELLAVITA",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u4ec1\u8def28\u865f",
+    "lat": "25.0397075",
+    "lon": "121.5678251",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Breeze Center",
+    "address": " 105\u53f0\u5317\u5e02\u677e\u5c71\u5340\u5fa9\u8208\u5357\u8def\u4e00\u6bb539\u865f",
+    "lat": "25.0461678",
+    "lon": "121.5445152",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Taipei 101 Shopping center",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u5e02\u5e9c\u8def45 \u865f",
+    "lat": "25.0341222",
+    "lon": "121.5640212",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Breeze Xinyi",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u5fe0\u5b5d\u6771\u8def\u4e94\u6bb568\u865f",
+    "lat": "25.0405444",
+    "lon": "121.5667909",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Breeze SongGao",
+    "address": " 110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u9ad8\u8def16\u865f",
+    "lat": "25.0385509",
+    "lon": "121.567355",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Shipai Elementary School",
+    "address": " 112\u53f0\u5317\u5e02\u5317\u6295\u5340\u81f4\u9060\u4e8c\u8def80\u865f",
+    "lat": "25.1154038",
+    "lon": "121.5124252",
+    "type": "school"
+  },
+  {
+    "place_name": "Li Nong Elementary School",
+    "address": " 112\u53f0\u5317\u5e02\u5317\u6295\u5340\u7acb\u8fb2\u8857\u4e00\u6bb5250\u865f",
+    "lat": "25.119493",
+    "lon": "121.505032",
+    "type": "school"
+  },
+  {
+    "place_name": "Shipai Junior High School",
+    "address": " 112\u53f0\u5317\u5e02\u5317\u6295\u5340\u77f3\u724c\u8def\u4e00\u6bb5139\u865f",
+    "lat": "25.1149627",
+    "lon": "121.5141674",
+    "type": "school"
+  },
+  {
+    "place_name": "\u694a\u57fa\u6587\u7406\u88dc\u7fd2\u73ed",
+    "address": " 112\u53f0\u5317\u5e02\u5317\u6295\u5340",
+    "lat": "25.1153488",
+    "lon": "121.5098843",
+    "type": "school"
+  },
+  {
+    "place_name": "\u500b\u5225\u6307\u5c0e\u660e\u5149\u7fa9\u587e \u53f0\u5317\u77f3\u724c\u6559\u5ba4",
+    "address": " 112\u53f0\u5317\u5e02\u5317\u6295\u5340\u5be6\u8e10\u885771\u865f",
+    "lat": "25.115352",
+    "lon": "121.510197",
+    "type": "school"
+  },
+  {
+    "place_name": "\u76c8\u5609\u88dc\u7fd2\u73ed",
+    "address": " 112\u53f0\u5317\u5e02\u5317\u6295\u5340",
+    "lat": "25.1157435",
+    "lon": "121.5115218",
+    "type": "school"
+  },
+  {
+    "place_name": "\u69ae\u7f8e\u5b78\u5712(\u69ae\u7f8e\u6587\u7406\u88dc\u7fd2\u73ed)",
+    "address": " 11271\u53f0\u5317\u5e02\u5317\u6295\u5340\u77f3\u724c\u8def\u4e00\u6bb5166\u5df743\u5f048\u865f\u4e00\u6a13",
+    "lat": "25.1136943",
+    "lon": "121.5148127",
+    "type": "school"
+  },
+  {
+    "place_name": "National Yang Ming Chiao Tung University",
+    "address": " 112\u53f0\u5317\u5e02\u5317\u6295\u5340\u7acb\u8fb2\u8857\u4e8c\u6bb5155\u865f",
+    "lat": "25.1192972",
+    "lon": "121.5138765",
+    "type": "university"
+  },
+  {
+    "place_name": "Taipei National University of the Arts",
+    "address": " 112\u53f0\u5317\u5e02\u5317\u6295\u5340\u5b78\u5712\u8def1\u865f",
+    "lat": "25.1325182",
+    "lon": "121.4696818",
+    "type": "university"
+  },
+  {
+    "place_name": "Aletheia University",
+    "address": " 251\u65b0\u5317\u5e02\u6de1\u6c34\u5340\u771f\u7406\u885732\u865f",
+    "lat": "25.1767715",
+    "lon": "121.434879",
+    "type": "university"
+  },
+  {
+    "place_name": "Ming Chuan University Jihe Campus",
+    "address": " 111\u53f0\u5317\u5e02\u58eb\u6797\u5340\u57fa\u6cb3\u8def130\u865f",
+    "lat": "25.0891778",
+    "lon": "121.5226789",
+    "type": "university"
+  },
+  {
+    "place_name": "Tamkang University",
+    "address": " 251\u65b0\u5317\u5e02\u6de1\u6c34\u5340\u82f1\u5c08\u8def151\u865f",
+    "lat": "25.1740706",
+    "lon": "121.4473008",
+    "type": "university"
+  },
+  {
+    "place_name": "University of Taipei, Tian-Mu Campus",
+    "address": " 11153\u53f0\u5317\u5e02\u58eb\u6797\u5340\u5fe0\u8aa0\u8def\u4e8c\u6bb5101\u865f",
+    "lat": "25.1159064",
+    "lon": "121.5361787",
+    "type": "university"
+  },
+  {
+    "place_name": "National Taiwan Normal University",
+    "address": " 106\u53f0\u5317\u5e02\u5927\u5b89\u5340\u548c\u5e73\u6771\u8def\u4e00\u6bb5162\u865f",
+    "lat": "25.0260878",
+    "lon": "121.5275484",
+    "type": "university"
+  },
+  {
+    "place_name": "Taipei City Mall",
+    "address": " 100\u53f0\u5317\u5e02\u4e2d\u6b63\u5340\u5e02\u6c11\u5927\u9053\u4e00\u6bb5100\u865fB1",
+    "lat": "25.0495017",
+    "lon": "121.5136386",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Taiwan Shopping For Bags",
+    "address": " 103\u53f0\u5317\u5e02\u5927\u540c\u5340",
+    "lat": "25.0507424",
+    "lon": "121.5154027",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "\u5927\u76f4\u7f8e\u9e97\u65b0\u5ee3\u5834 NEW SQUARE",
+    "address": " 10491\u53f0\u5317\u5e02\u4e2d\u5c71\u5340\u5317\u5b89\u8def780\u865f",
+    "lat": "25.0849899",
+    "lon": "121.5537244",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "\u5927\u5713\u74b0\u90f5\u5e63\u5ee3\u5834",
+    "address": " 103\u53f0\u5317\u5e02\u5927\u540c\u5340\u5357\u4eac\u897f\u8def163\u865f",
+    "lat": "25.0540833",
+    "lon": "121.5130998",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "\u30ab\u30eb\u30d5\u30fc\u30eb \u58eb\u6797\u5e97",
+    "address": " \u53f0\u5317\u5e02\u58eb\u6797\u5340\u5bb6\u6a02\u798f",
+    "lat": "25.1051567",
+    "lon": "121.522469",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Beitou Elementary School",
+    "address": " 112\u53f0\u5317\u5e02\u5317\u6295\u5340\u4e2d\u592e\u5317\u8def\u4e00\u6bb573\u865f",
+    "lat": "25.1341467",
+    "lon": "121.5002075",
+    "type": "school"
+  },
+  {
+    "place_name": "Acton Academy Taipei",
+    "address": " 112\u53f0\u5317\u5e02\u5317\u6295\u5340\u5149\u660e\u8def167\u865f2\u6a13",
+    "lat": "25.1356594",
+    "lon": "121.5028571",
+    "type": "school"
+  },
+  {
+    "place_name": "\u827e\u601d\u5c08\u696d\u624d\u85dd\u6559\u5ba4 Ace Professional Art School",
+    "address": " 112\u53f0\u5317\u5e02\u5317\u6295\u5340\u78fa\u6e2f\u8def8-1\u865f8\u6a13",
+    "lat": "25.1332219",
+    "lon": "121.502156",
+    "type": "school"
+  },
+  {
+    "place_name": "Taipei Municipal Qingjiang Elementary School",
+    "address": " 112\u53f0\u5317\u5e02\u5317\u6295\u5340\u516c\u8218\u8def220\u865f",
+    "lat": "25.1268231",
+    "lon": "121.5074753",
+    "type": "school"
+  },
+  {
+    "place_name": "Municipal Beitou Junior High School",
+    "address": " 112\u53f0\u5317\u5e02\u5317\u6295\u5340\u6eab\u6cc9\u8def62\u865f",
+    "lat": "25.1344332",
+    "lon": "121.5046844",
+    "type": "school"
+  },
+  {
+    "place_name": "\u83c1\u83ef\u8cc7\u512a\u6587\u7406\u88dc\u7fd2\u73ed-\u78fa\u6e2f\u5206\u6821\uff08\u5e7c\u83ef\u570b\u4e2d\u5c08\u73ed\uff09",
+    "address": " 112\u53f0\u5317\u5e02\u5317\u6295\u5340\u78fa\u6e2f\u8def8\u4e4b1\u865f9\u6a13",
+    "lat": "25.133249",
+    "lon": "121.502095",
+    "type": "school"
+  },
+  {
+    "place_name": "Wego Elementary School",
+    "address": " 112\u53f0\u5317\u5e02\u5317\u6295\u5340\u80b2\u4ec1\u8def106\u865f",
+    "lat": "25.1360521",
+    "lon": "121.5008795",
+    "type": "school"
+  },
+  {
+    "place_name": "National Yang Ming Chiao Tung University",
+    "address": " 112\u53f0\u5317\u5e02\u5317\u6295\u5340\u7acb\u8fb2\u8857\u4e8c\u6bb5155\u865f",
+    "lat": "25.1192972",
+    "lon": "121.5138765",
+    "type": "university"
+  },
+  {
+    "place_name": "Taipei National University of the Arts",
+    "address": " 112\u53f0\u5317\u5e02\u5317\u6295\u5340\u5b78\u5712\u8def1\u865f",
+    "lat": "25.1325182",
+    "lon": "121.4696818",
+    "type": "university"
+  },
+  {
+    "place_name": "Aletheia University",
+    "address": " 251\u65b0\u5317\u5e02\u6de1\u6c34\u5340\u771f\u7406\u885732\u865f",
+    "lat": "25.1767715",
+    "lon": "121.434879",
+    "type": "university"
+  },
+  {
+    "place_name": "Tamkang University",
+    "address": " 251\u65b0\u5317\u5e02\u6de1\u6c34\u5340\u82f1\u5c08\u8def151\u865f",
+    "lat": "25.1740706",
+    "lon": "121.4473008",
+    "type": "university"
+  },
+  {
+    "place_name": "Ming Chuan University Jihe Campus",
+    "address": " 111\u53f0\u5317\u5e02\u58eb\u6797\u5340\u57fa\u6cb3\u8def130\u865f",
+    "lat": "25.0891778",
+    "lon": "121.5226789",
+    "type": "university"
+  },
+  {
+    "place_name": "National Taiwan Normal University",
+    "address": " 106\u53f0\u5317\u5e02\u5927\u5b89\u5340\u548c\u5e73\u6771\u8def\u4e00\u6bb5162\u865f",
+    "lat": "25.0260878",
+    "lon": "121.5275484",
+    "type": "university"
+  },
+  {
+    "place_name": "University of Taipei, Tian-Mu Campus",
+    "address": " 11153\u53f0\u5317\u5e02\u58eb\u6797\u5340\u5fe0\u8aa0\u8def\u4e8c\u6bb5101\u865f",
+    "lat": "25.1159064",
+    "lon": "121.5361787",
+    "type": "university"
+  },
+  {
+    "place_name": "Taipei City Mall",
+    "address": " 100\u53f0\u5317\u5e02\u4e2d\u6b63\u5340\u5e02\u6c11\u5927\u9053\u4e00\u6bb5100\u865fB1",
+    "lat": "25.0495017",
+    "lon": "121.5136386",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Taiwan Shopping For Bags",
+    "address": " 103\u53f0\u5317\u5e02\u5927\u540c\u5340",
+    "lat": "25.0507424",
+    "lon": "121.5154027",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "\u5927\u76f4\u7f8e\u9e97\u65b0\u5ee3\u5834 NEW SQUARE",
+    "address": " 10491\u53f0\u5317\u5e02\u4e2d\u5c71\u5340\u5317\u5b89\u8def780\u865f",
+    "lat": "25.0849899",
+    "lon": "121.5537244",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "\u5927\u5713\u74b0\u90f5\u5e63\u5ee3\u5834",
+    "address": " 103\u53f0\u5317\u5e02\u5927\u540c\u5340\u5357\u4eac\u897f\u8def163\u865f",
+    "lat": "25.0540833",
+    "lon": "121.5130998",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "St. Ignatius Plaza",
+    "address": " 247\u65b0\u5317\u5e02\u8606\u6d32\u5340\u4e2d\u5c71\u4e00\u8def8\u865f",
+    "lat": "25.080547",
+    "lon": "121.4804698",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Wanhua Junior High School",
+    "address": " 108\u53f0\u5317\u5e02\u842c\u83ef\u5340\u897f\u85cf\u8def201\u865f",
+    "lat": "25.0285877",
+    "lon": "121.4989765",
+    "type": "school"
+  },
+  {
+    "place_name": "Taipei Municipal Xiyuan Elementary School",
+    "address": " 108\u53f0\u5317\u5e02\u842c\u83ef\u5340\u6771\u5712\u885773\u5df765\u865f",
+    "lat": "25.0267763",
+    "lon": "121.4983379",
+    "type": "school"
+  },
+  {
+    "place_name": "Shuangyuan Elementary School",
+    "address": " 108\u53f0\u5317\u5e02\u842c\u83ef\u5340\u8392\u5149\u8def315\u865f",
+    "lat": "25.0308536",
+    "lon": "121.4981343",
+    "type": "school"
+  },
+  {
+    "place_name": "Dongyuan Elementary School",
+    "address": " 108\u53f0\u5317\u5e02\u842c\u83ef\u5340\u6771\u5712\u8857195\u865f",
+    "lat": "25.022978",
+    "lon": "121.497962",
+    "type": "school"
+  },
+  {
+    "place_name": "\u9df9\u842c\u6e38\u6cf3\u5b78\u6821",
+    "address": " 108\u53f0\u5317\u5e02\u842c\u83ef\u5340\u897f\u85cf\u8def201\u865f",
+    "lat": "25.0291092",
+    "lon": "121.4987891",
+    "type": "school"
+  },
+  {
+    "place_name": "Shuang Yuan Junior High School",
+    "address": " 108\u53f0\u5317\u5e02\u842c\u83ef\u5340\u8208\u7fa9\u88572\u865f",
+    "lat": "25.0276017",
+    "lon": "121.4920072",
+    "type": "school"
+  },
+  {
+    "place_name": "Taipei Korean School",
+    "address": " 108\u53f0\u5317\u5e02\u842c\u83ef\u5340\u9752\u5e74\u8def68\u5df71\u865f",
+    "lat": "25.023801",
+    "lon": "121.5023949",
+    "type": "school"
+  },
+  {
+    "place_name": "National Taiwan Normal University",
+    "address": " 106\u53f0\u5317\u5e02\u5927\u5b89\u5340\u548c\u5e73\u6771\u8def\u4e00\u6bb5162\u865f",
+    "lat": "25.0260878",
+    "lon": "121.5275484",
+    "type": "university"
+  },
+  {
+    "place_name": "National Taiwan University",
+    "address": " 10617\u53f0\u5317\u5e02\u5927\u5b89\u5340\u7f85\u65af\u798f\u8def\u56db\u6bb51\u865f",
+    "lat": "25.0173405",
+    "lon": "121.5397518",
+    "type": "university"
+  },
+  {
+    "place_name": "Soochow University Downtown Campus",
+    "address": " 100\u53f0\u5317\u5e02\u4e2d\u6b63\u5340\u8cb4\u967d\u8857\u4e00\u6bb556\u865f",
+    "lat": "25.0388477",
+    "lon": "121.5098858",
+    "type": "university"
+  },
+  {
+    "place_name": "National Taiwan University Shuiyuan Campus",
+    "address": " 100\u53f0\u5317\u5e02\u4e2d\u6b63\u5340\u601d\u6e90\u885718\u865f",
+    "lat": "25.0139558",
+    "lon": "121.5294531",
+    "type": "university"
+  },
+  {
+    "place_name": "Chihlee University of Technology",
+    "address": " 220\u65b0\u5317\u5e02\u677f\u6a4b\u5340\u6587\u5316\u8def\u4e00\u6bb5313\u865f",
+    "lat": "25.0210986",
+    "lon": "121.4651279",
+    "type": "university"
+  },
+  {
+    "place_name": "National Taiwan University College of Medicine",
+    "address": " 100\u53f0\u5317\u5e02\u4e2d\u6b63\u5340\u4ec1\u611b\u8def\u4e00\u6bb51\u865f",
+    "lat": "25.04008",
+    "lon": "121.5195309",
+    "type": "university"
+  },
+  {
+    "place_name": "National Taiwan University of Arts",
+    "address": " 220\u65b0\u5317\u5e02\u677f\u6a4b\u5340\u5927\u89c0\u8def\u4e00\u6bb559\u865f",
+    "lat": "25.0060395",
+    "lon": "121.4488186",
+    "type": "university"
+  },
+  {
+    "place_name": "Taipei City Mall",
+    "address": " 100\u53f0\u5317\u5e02\u4e2d\u6b63\u5340\u5e02\u6c11\u5927\u9053\u4e00\u6bb5100\u865fB1",
+    "lat": "25.0495017",
+    "lon": "121.5136386",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Taiwan Shopping For Bags",
+    "address": " 103\u53f0\u5317\u5e02\u5927\u540c\u5340",
+    "lat": "25.0507424",
+    "lon": "121.5154027",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Longshan Temple Street Underground",
+    "address": " 108\u53f0\u5317\u5e02\u842c\u83ef\u5340\u897f\u5712\u8def\u4e00\u6bb5145\u865f",
+    "lat": "25.0360914",
+    "lon": "121.500261",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Magasin Robe",
+    "address": " No. 20, \u6606\u660e\u885796\u5df7\u842c\u83ef\u5340\u53f0\u5317\u5e02108",
+    "lat": "25.0448506",
+    "lon": "121.5042571",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Q Square Mall",
+    "address": " 103\u53f0\u5317\u5e02\u5927\u540c\u5340\u627f\u5fb7\u8def\u4e00\u6bb51\u865f",
+    "lat": "25.049308",
+    "lon": "121.5171935",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Wen Hu Elementary School",
+    "address": " 114\u53f0\u5317\u5e02\u5167\u6e56\u5340\u6587\u6e56\u885715\u865f",
+    "lat": "25.0863225",
+    "lon": "121.5599854",
+    "type": "school"
+  },
+  {
+    "place_name": "Dominican International School",
+    "address": " 104\u53f0\u5317\u5e02\u4e2d\u5c71\u5340\u5927\u76f4\u885776\u865f",
+    "lat": "25.0851911",
+    "lon": "121.5466115",
+    "type": "school"
+  },
+  {
+    "place_name": "\u67cf\u9f61\u592a\u9f13",
+    "address": " 104\u53f0\u5317\u5e02\u4e2d\u5c71\u5340\u5317\u5b89\u8def805\u5df74\u5f041\u865fB1",
+    "lat": "25.0860253",
+    "lon": "121.554461",
+    "type": "school"
+  },
+  {
+    "place_name": "Binjiang Junior High School",
+    "address": " 10462\u53f0\u5317\u5e02\u4e2d\u5c71\u5340\u6a02\u7fa4\u4e8c\u8def262\u865f",
+    "lat": "25.07955",
+    "lon": "121.5607499",
+    "type": "school"
+  },
+  {
+    "place_name": "Taipei Municipal Dazhi Elementary School",
+    "address": " 104\u53f0\u5317\u5e02\u4e2d\u5c71\u5340\u5927\u76f4\u88572\u865f",
+    "lat": "25.0805261",
+    "lon": "121.5464127",
+    "type": "school"
+  },
+  {
+    "place_name": "Xihu Elementary School",
+    "address": " 114\u53f0\u5317\u5e02\u5167\u6e56\u5340\u74b0\u5c71\u8def\u4e00\u6bb525\u865f",
+    "lat": "25.0838152",
+    "lon": "121.5657339",
+    "type": "school"
+  },
+  {
+    "place_name": "Xihu Junior High School",
+    "address": " 114\u53f0\u5317\u5e02\u5167\u6e56\u5340\u74b0\u5c71\u8def\u4e00\u6bb527\u865f",
+    "lat": "25.0854627",
+    "lon": "121.5660775",
+    "type": "school"
+  }
+]
