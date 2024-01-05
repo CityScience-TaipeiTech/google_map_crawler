@@ -1,0 +1,12 @@
+{
+  "library": [
+    {
+      "name": "台北市政府 FastBook全自動借書站",
+      "a": "https://www.google.com/maps/place/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C+FastBook%E5%85%A8%E8%87%AA%E5%8B%95%E5%80%9F%E6%9B%B8%E7%AB%99/data=!4m7!3m6!1s0x3442abbb68c63b59:0x2f091355b08075d2!8m2!3d25.037531!4d121.5639969!16s%2Fg%2F11hb4y1lpr!19sChIJWTvGaLurQjQR0nWAsFUTCS8?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "library",
+      "category": "圖書館",
+      "lat": 25.037531,
+      "lon": 121.5639969
+    }
+  ]
+}

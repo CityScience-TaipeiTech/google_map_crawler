@@ -1,0 +1,1122 @@
+[
+  {
+    "place_name": "Taipei New World Montessori Elementary School",
+    "address": " 110台北市信義區松勤街51號",
+    "lat": "25.0321558",
+    "lon": "121.5636172",
+    "type": "school"
+  },
+  {
+    "place_name": "Nouvelle Vague School",
+    "address": " 3F, No. 415信義路四段信義區台北市110",
+    "lat": "25.033337",
+    "lon": "121.5593118",
+    "type": "school"
+  },
+  {
+    "place_name": "Guangfu Elementary School",
+    "address": " 110台北市信義區光復南路271號",
+    "lat": "25.0402306",
+    "lon": "121.5581897",
+    "type": "school"
+  },
+  {
+    "place_name": "Taipei Municipal Xinyi Junior High School",
+    "address": " 110台北市信義區松仁路158巷1號",
+    "lat": "25.0288257",
+    "lon": "121.5677566",
+    "type": "school"
+  },
+  {
+    "place_name": "Taipei Municipal Xinyi Elementary School",
+    "address": " 110台北市信義區松勤街60號",
+    "lat": "25.0312351",
+    "lon": "121.5629977",
+    "type": "school"
+  },
+  {
+    "place_name": "德美蒙特梭利幼兒園",
+    "address": " 110台北市信義區德美街2-3號",
+    "lat": "25.0329636",
+    "lon": "121.5654268",
+    "type": "school"
+  },
+  {
+    "place_name": "Happy Kids",
+    "address": " 106台北市大安區信義路四段96號",
+    "lat": "25.032967",
+    "lon": "121.547849",
+    "type": "school"
+  },
+  {
+    "place_name": "Noodoe EV Charging Station",
+    "address": " 110台北市信義區松高路1號",
+    "lat": "25.0398909",
+    "lon": "121.5642222",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "BMW Destination Charging Station",
+    "address": " 7號, No. 85信義路五段信義區台北市110",
+    "lat": "25.033964",
+    "lon": "121.5645483",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "Noodoe EV Charging Station",
+    "address": " Fushou RdTaipei110TW",
+    "lat": "25.0392613",
+    "lon": "121.5584484",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "Porsche Smart Mobility GmbH Charging Station",
+    "address": " 110台北市信義區松仁路58號",
+    "lat": "25.0368937",
+    "lon": "121.5678935",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "Noodoe EV Charging Station",
+    "address": " 106台北市大安區仁愛路四段118號",
+    "lat": "25.0376437",
+    "lon": "121.5501682",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "Noodoe EV Charging Station",
+    "address": " 110台北市信義區松高路1號",
+    "lat": "25.0398909",
+    "lon": "121.5642222",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "BMW Destination Charging Station",
+    "address": " 7號, No. 85信義路五段信義區台北市110",
+    "lat": "25.033964",
+    "lon": "121.5645483",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "Noodoe EV Charging Station",
+    "address": " Fushou RdTaipei110TW",
+    "lat": "25.0392613",
+    "lon": "121.5584484",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "Porsche Smart Mobility GmbH Charging Station",
+    "address": " 110台北市信義區松仁路58號",
+    "lat": "25.0368937",
+    "lon": "121.5678935",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "Noodoe EV Charging Station",
+    "address": " 106台北市大安區仁愛路四段118號",
+    "lat": "25.0376437",
+    "lon": "121.5501682",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "National Taiwan University",
+    "address": " 10617台北市大安區羅斯福路四段1號",
+    "lat": "25.0173405",
+    "lon": "121.5397518",
+    "type": "university"
+  },
+  {
+    "place_name": "National Taiwan Normal University",
+    "address": " 106台北市大安區和平東路一段162號",
+    "lat": "25.0260878",
+    "lon": "121.5275484",
+    "type": "university"
+  },
+  {
+    "place_name": "Taipei Medical University",
+    "address": " 110台北市信義區吳興街250號",
+    "lat": "25.0253125",
+    "lon": "121.5613608",
+    "type": "university"
+  },
+  {
+    "place_name": "National Taiwan University Shuiyuan Campus",
+    "address": " 100台北市中正區思源街18號",
+    "lat": "25.0139558",
+    "lon": "121.5294531",
+    "type": "university"
+  },
+  {
+    "place_name": "University of Kang Ning Taipei Campus",
+    "address": " 114台北市內湖區康寧路三段75巷137號",
+    "lat": "25.0757493",
+    "lon": "121.6094778",
+    "type": "university"
+  },
+  {
+    "place_name": "Soochow University Downtown Campus",
+    "address": " 100台北市中正區貴陽街一段56號",
+    "lat": "25.0388477",
+    "lon": "121.5098858",
+    "type": "university"
+  },
+  {
+    "place_name": "National Chengchi University",
+    "address": " 116台北市文山區指南路二段64號",
+    "lat": "24.9878632",
+    "lon": "121.5774304",
+    "type": "university"
+  },
+  {
+    "place_name": "Taipei 101 Shopping center",
+    "address": " 110台北市信義區市府路45 號",
+    "lat": "25.0341222",
+    "lon": "121.5640212",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "BELLAVITA",
+    "address": " 110台北市信義區松仁路28號",
+    "lat": "25.0397075",
+    "lon": "121.5678251",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Breeze SongGao",
+    "address": " 110台北市信義區松高路16號",
+    "lat": "25.0385509",
+    "lon": "121.567355",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Breeze Nan Shan",
+    "address": " 110台北市信義區松智路17號",
+    "lat": "25.0343073",
+    "lon": "121.5659555",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Chloé Kids 微風南山",
+    "address": " 110台北市信義區110松智路17號B1 Chole Kids",
+    "lat": "25.034367",
+    "lon": "121.5661283",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Taipei New World Montessori Elementary School",
+    "address": " 110台北市信義區松勤街51號",
+    "lat": "25.0321558",
+    "lon": "121.5636172",
+    "type": "school"
+  },
+  {
+    "place_name": "Nouvelle Vague School",
+    "address": " 3F, No. 415信義路四段信義區台北市110",
+    "lat": "25.033337",
+    "lon": "121.5593118",
+    "type": "school"
+  },
+  {
+    "place_name": "Guangfu Elementary School",
+    "address": " 110台北市信義區光復南路271號",
+    "lat": "25.0402306",
+    "lon": "121.5581897",
+    "type": "school"
+  },
+  {
+    "place_name": "Taipei Municipal Xinyi Junior High School",
+    "address": " 110台北市信義區松仁路158巷1號",
+    "lat": "25.0288257",
+    "lon": "121.5677566",
+    "type": "school"
+  },
+  {
+    "place_name": "Taipei Municipal Xinyi Elementary School",
+    "address": " 110台北市信義區松勤街60號",
+    "lat": "25.0312351",
+    "lon": "121.5629977",
+    "type": "school"
+  },
+  {
+    "place_name": "德美蒙特梭利幼兒園",
+    "address": " 110台北市信義區德美街2-3號",
+    "lat": "25.0329636",
+    "lon": "121.5654268",
+    "type": "school"
+  },
+  {
+    "place_name": "Happy Kids",
+    "address": " 106台北市大安區信義路四段96號",
+    "lat": "25.032967",
+    "lon": "121.547849",
+    "type": "school"
+  },
+  {
+    "place_name": "Noodoe EV Charging Station",
+    "address": " 110台北市信義區松高路1號",
+    "lat": "25.0398909",
+    "lon": "121.5642222",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "BMW Destination Charging Station",
+    "address": " 7號, No. 85信義路五段信義區台北市110",
+    "lat": "25.033964",
+    "lon": "121.5645483",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "Noodoe EV Charging Station",
+    "address": " Fushou RdTaipei110TW",
+    "lat": "25.0392613",
+    "lon": "121.5584484",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "Porsche Smart Mobility GmbH Charging Station",
+    "address": " 110台北市信義區松仁路58號",
+    "lat": "25.0368937",
+    "lon": "121.5678935",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "Noodoe EV Charging Station",
+    "address": " 106台北市大安區仁愛路四段118號",
+    "lat": "25.0376437",
+    "lon": "121.5501682",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "Noodoe EV Charging Station",
+    "address": " 110台北市信義區松高路1號",
+    "lat": "25.0398909",
+    "lon": "121.5642222",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "BMW Destination Charging Station",
+    "address": " 7號, No. 85信義路五段信義區台北市110",
+    "lat": "25.033964",
+    "lon": "121.5645483",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "Noodoe EV Charging Station",
+    "address": " Fushou RdTaipei110TW",
+    "lat": "25.0392613",
+    "lon": "121.5584484",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "Porsche Smart Mobility GmbH Charging Station",
+    "address": " 110台北市信義區松仁路58號",
+    "lat": "25.0368937",
+    "lon": "121.5678935",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "Noodoe EV Charging Station",
+    "address": " 106台北市大安區仁愛路四段118號",
+    "lat": "25.0376437",
+    "lon": "121.5501682",
+    "type": "subway_station"
+  },
+  {
+    "place_name": "National Taiwan University",
+    "address": " 10617台北市大安區羅斯福路四段1號",
+    "lat": "25.0173405",
+    "lon": "121.5397518",
+    "type": "university"
+  },
+  {
+    "place_name": "National Taiwan Normal University",
+    "address": " 106台北市大安區和平東路一段162號",
+    "lat": "25.0260878",
+    "lon": "121.5275484",
+    "type": "university"
+  },
+  {
+    "place_name": "Taipei Medical University",
+    "address": " 110台北市信義區吳興街250號",
+    "lat": "25.0253125",
+    "lon": "121.5613608",
+    "type": "university"
+  },
+  {
+    "place_name": "National Taiwan University Shuiyuan Campus",
+    "address": " 100台北市中正區思源街18號",
+    "lat": "25.0139558",
+    "lon": "121.5294531",
+    "type": "university"
+  },
+  {
+    "place_name": "University of Kang Ning Taipei Campus",
+    "address": " 114台北市內湖區康寧路三段75巷137號",
+    "lat": "25.0757493",
+    "lon": "121.6094778",
+    "type": "university"
+  },
+  {
+    "place_name": "Soochow University Downtown Campus",
+    "address": " 100台北市中正區貴陽街一段56號",
+    "lat": "25.0388477",
+    "lon": "121.5098858",
+    "type": "university"
+  },
+  {
+    "place_name": "National Chengchi University",
+    "address": " 116台北市文山區指南路二段64號",
+    "lat": "24.9878632",
+    "lon": "121.5774304",
+    "type": "university"
+  },
+  {
+    "place_name": "Taipei 101 Shopping center",
+    "address": " 110台北市信義區市府路45 號",
+    "lat": "25.0341222",
+    "lon": "121.5640212",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "BELLAVITA",
+    "address": " 110台北市信義區松仁路28號",
+    "lat": "25.0397075",
+    "lon": "121.5678251",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Breeze SongGao",
+    "address": " 110台北市信義區松高路16號",
+    "lat": "25.0385509",
+    "lon": "121.567355",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Breeze Nan Shan",
+    "address": " 110台北市信義區松智路17號",
+    "lat": "25.0343073",
+    "lon": "121.5659555",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Chloé Kids 微風南山",
+    "address": " 110台北市信義區110松智路17號B1 Chole Kids",
+    "lat": "25.034367",
+    "lon": "121.5661283",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Taipei Municipal Xinyi Elementary School",
+    "address": " 110台北市信義區松勤街60號",
+    "lat": "25.0312351",
+    "lon": "121.5629977",
+    "type": "school"
+  },
+  {
+    "place_name": "Taipei Municipal Xinyi Junior High School",
+    "address": " 110台北市信義區松仁路158巷1號",
+    "lat": "25.0288257",
+    "lon": "121.5677566",
+    "type": "school"
+  },
+  {
+    "place_name": "Taipei Municipal WuXing Elementary School",
+    "address": " 110台北市信義區松仁路226號",
+    "lat": "25.0255934",
+    "lon": "121.5683186",
+    "type": "school"
+  },
+  {
+    "place_name": "鋼琴到府教學（信義區）",
+    "address": " 110台北市信義區吳興街269巷1弄",
+    "lat": "25.0275276",
+    "lon": "121.563913",
+    "type": "school"
+  },
+  {
+    "place_name": "Taipei New World Montessori Elementary School",
+    "address": " 110台北市信義區松勤街51號",
+    "lat": "25.0321558",
+    "lon": "121.5636172",
+    "type": "school"
+  },
+  {
+    "place_name": "明輝文理補習班",
+    "address": " 110台北市信義區吳興街361巷4號",
+    "lat": "25.0258009",
+    "lon": "121.5668269",
+    "type": "school"
+  },
+  {
+    "place_name": "德美蒙特梭利幼兒園",
+    "address": " 110台北市信義區德美街2-3號",
+    "lat": "25.0329636",
+    "lon": "121.5654268",
+    "type": "school"
+  },
+  {
+    "place_name": "National Taiwan University",
+    "address": " 10617台北市大安區羅斯福路四段1號",
+    "lat": "25.0173405",
+    "lon": "121.5397518",
+    "type": "university"
+  },
+  {
+    "place_name": "Taipei Medical University",
+    "address": " 110台北市信義區吳興街250號",
+    "lat": "25.0253125",
+    "lon": "121.5613608",
+    "type": "university"
+  },
+  {
+    "place_name": "National Taiwan Normal University",
+    "address": " 106台北市大安區和平東路一段162號",
+    "lat": "25.0260878",
+    "lon": "121.5275484",
+    "type": "university"
+  },
+  {
+    "place_name": "National Taiwan University Shuiyuan Campus",
+    "address": " 100台北市中正區思源街18號",
+    "lat": "25.0139558",
+    "lon": "121.5294531",
+    "type": "university"
+  },
+  {
+    "place_name": "University of Kang Ning Taipei Campus",
+    "address": " 114台北市內湖區康寧路三段75巷137號",
+    "lat": "25.0757493",
+    "lon": "121.6094778",
+    "type": "university"
+  },
+  {
+    "place_name": "National Chengchi University",
+    "address": " 116台北市文山區指南路二段64號",
+    "lat": "24.9878632",
+    "lon": "121.5774304",
+    "type": "university"
+  },
+  {
+    "place_name": "Soochow University Downtown Campus",
+    "address": " 100台北市中正區貴陽街一段56號",
+    "lat": "25.0388477",
+    "lon": "121.5098858",
+    "type": "university"
+  },
+  {
+    "place_name": "Taipei 101 Shopping center",
+    "address": " 110台北市信義區市府路45 號",
+    "lat": "25.0341222",
+    "lon": "121.5640212",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "BELLAVITA",
+    "address": " 110台北市信義區松仁路28號",
+    "lat": "25.0397075",
+    "lon": "121.5678251",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Breeze Nan Shan",
+    "address": " 110台北市信義區松智路17號",
+    "lat": "25.0343073",
+    "lon": "121.5659555",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Chloé Kids 微風南山",
+    "address": " 110台北市信義區110松智路17號B1 Chole Kids",
+    "lat": "25.034367",
+    "lon": "121.5661283",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Breeze Center",
+    "address": " 105台北市松山區復興南路一段39號",
+    "lat": "25.0461678",
+    "lon": "121.5445152",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Xing Ya Elementary School",
+    "address": " 110台北市信義區基隆路一段83巷9號",
+    "lat": "25.047249",
+    "lon": "121.5696554",
+    "type": "school"
+  },
+  {
+    "place_name": "Young Ji Junior High School",
+    "address": " 110台北市信義區松隆路161號",
+    "lat": "25.0483189",
+    "lon": "121.5737906",
+    "type": "school"
+  },
+  {
+    "place_name": "沈惠芳文理補習班",
+    "address": " 11063台北市信義區永吉路185號",
+    "lat": "25.0458093",
+    "lon": "121.5722553",
+    "type": "school"
+  },
+  {
+    "place_name": "Songshan Senior High School",
+    "address": " 110台北市信義區基隆路一段156號",
+    "lat": "25.0435047",
+    "lon": "121.565387",
+    "type": "school"
+  },
+  {
+    "place_name": "Meiko School Taipei Yongji",
+    "address": " 110台北市信義區永吉路119號",
+    "lat": "25.0458519",
+    "lon": "121.57017",
+    "type": "school"
+  },
+  {
+    "place_name": "Andy's School 恩迪美語西松分校",
+    "address": " 105台北市松山區南京東路五段202號2樓之5",
+    "lat": "25.0512258",
+    "lon": "121.5647862",
+    "type": "school"
+  },
+  {
+    "place_name": "Taipei Songshan Elementary School",
+    "address": " 104台北市松山區八德路四段746號",
+    "lat": "25.0504278",
+    "lon": "121.5782972",
+    "type": "school"
+  },
+  {
+    "place_name": "National Taiwan University",
+    "address": " 10617台北市大安區羅斯福路四段1號",
+    "lat": "25.0173405",
+    "lon": "121.5397518",
+    "type": "university"
+  },
+  {
+    "place_name": "National Taiwan Normal University",
+    "address": " 106台北市大安區和平東路一段162號",
+    "lat": "25.0260878",
+    "lon": "121.5275484",
+    "type": "university"
+  },
+  {
+    "place_name": "University of Kang Ning Taipei Campus",
+    "address": " 114台北市內湖區康寧路三段75巷137號",
+    "lat": "25.0757493",
+    "lon": "121.6094778",
+    "type": "university"
+  },
+  {
+    "place_name": "National Taiwan University Shuiyuan Campus",
+    "address": " 100台北市中正區思源街18號",
+    "lat": "25.0139558",
+    "lon": "121.5294531",
+    "type": "university"
+  },
+  {
+    "place_name": "Taipei Medical University",
+    "address": " 110台北市信義區吳興街250號",
+    "lat": "25.0253125",
+    "lon": "121.5613608",
+    "type": "university"
+  },
+  {
+    "place_name": "Soochow University Downtown Campus",
+    "address": " 100台北市中正區貴陽街一段56號",
+    "lat": "25.0388477",
+    "lon": "121.5098858",
+    "type": "university"
+  },
+  {
+    "place_name": "Ming Chuan University Jihe Campus",
+    "address": " 111台北市士林區基河路130號",
+    "lat": "25.0891778",
+    "lon": "121.5226789",
+    "type": "university"
+  },
+  {
+    "place_name": "BELLAVITA",
+    "address": " 110台北市信義區松仁路28號",
+    "lat": "25.0397075",
+    "lon": "121.5678251",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Breeze Center",
+    "address": " 105台北市松山區復興南路一段39號",
+    "lat": "25.0461678",
+    "lon": "121.5445152",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Taipei 101 Shopping center",
+    "address": " 110台北市信義區市府路45 號",
+    "lat": "25.0341222",
+    "lon": "121.5640212",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Breeze Xinyi",
+    "address": " 110台北市信義區忠孝東路五段68號",
+    "lat": "25.0405444",
+    "lon": "121.5667909",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Breeze SongGao",
+    "address": " 110台北市信義區松高路16號",
+    "lat": "25.0385509",
+    "lon": "121.567355",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Shipai Elementary School",
+    "address": " 112台北市北投區致遠二路80號",
+    "lat": "25.1154038",
+    "lon": "121.5124252",
+    "type": "school"
+  },
+  {
+    "place_name": "Li Nong Elementary School",
+    "address": " 112台北市北投區立農街一段250號",
+    "lat": "25.119493",
+    "lon": "121.505032",
+    "type": "school"
+  },
+  {
+    "place_name": "Shipai Junior High School",
+    "address": " 112台北市北投區石牌路一段139號",
+    "lat": "25.1149627",
+    "lon": "121.5141674",
+    "type": "school"
+  },
+  {
+    "place_name": "楊基文理補習班",
+    "address": " 112台北市北投區",
+    "lat": "25.1153488",
+    "lon": "121.5098843",
+    "type": "school"
+  },
+  {
+    "place_name": "個別指導明光義塾 台北石牌教室",
+    "address": " 112台北市北投區實踐街71號",
+    "lat": "25.115352",
+    "lon": "121.510197",
+    "type": "school"
+  },
+  {
+    "place_name": "盈嘉補習班",
+    "address": " 112台北市北投區",
+    "lat": "25.1157435",
+    "lon": "121.5115218",
+    "type": "school"
+  },
+  {
+    "place_name": "榮美學園(榮美文理補習班)",
+    "address": " 11271台北市北投區石牌路一段166巷43弄8號一樓",
+    "lat": "25.1136943",
+    "lon": "121.5148127",
+    "type": "school"
+  },
+  {
+    "place_name": "National Yang Ming Chiao Tung University",
+    "address": " 112台北市北投區立農街二段155號",
+    "lat": "25.1192972",
+    "lon": "121.5138765",
+    "type": "university"
+  },
+  {
+    "place_name": "Taipei National University of the Arts",
+    "address": " 112台北市北投區學園路1號",
+    "lat": "25.1325182",
+    "lon": "121.4696818",
+    "type": "university"
+  },
+  {
+    "place_name": "Aletheia University",
+    "address": " 251新北市淡水區真理街32號",
+    "lat": "25.1767715",
+    "lon": "121.434879",
+    "type": "university"
+  },
+  {
+    "place_name": "Ming Chuan University Jihe Campus",
+    "address": " 111台北市士林區基河路130號",
+    "lat": "25.0891778",
+    "lon": "121.5226789",
+    "type": "university"
+  },
+  {
+    "place_name": "Tamkang University",
+    "address": " 251新北市淡水區英專路151號",
+    "lat": "25.1740706",
+    "lon": "121.4473008",
+    "type": "university"
+  },
+  {
+    "place_name": "University of Taipei, Tian-Mu Campus",
+    "address": " 11153台北市士林區忠誠路二段101號",
+    "lat": "25.1159064",
+    "lon": "121.5361787",
+    "type": "university"
+  },
+  {
+    "place_name": "National Taiwan Normal University",
+    "address": " 106台北市大安區和平東路一段162號",
+    "lat": "25.0260878",
+    "lon": "121.5275484",
+    "type": "university"
+  },
+  {
+    "place_name": "Taipei City Mall",
+    "address": " 100台北市中正區市民大道一段100號B1",
+    "lat": "25.0495017",
+    "lon": "121.5136386",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Taiwan Shopping For Bags",
+    "address": " 103台北市大同區",
+    "lat": "25.0507424",
+    "lon": "121.5154027",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "大直美麗新廣場 NEW SQUARE",
+    "address": " 10491台北市中山區北安路780號",
+    "lat": "25.0849899",
+    "lon": "121.5537244",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "大圓環郵幣廣場",
+    "address": " 103台北市大同區南京西路163號",
+    "lat": "25.0540833",
+    "lon": "121.5130998",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "カルフール 士林店",
+    "address": " 台北市士林區家樂福",
+    "lat": "25.1051567",
+    "lon": "121.522469",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Beitou Elementary School",
+    "address": " 112台北市北投區中央北路一段73號",
+    "lat": "25.1341467",
+    "lon": "121.5002075",
+    "type": "school"
+  },
+  {
+    "place_name": "Acton Academy Taipei",
+    "address": " 112台北市北投區光明路167號2樓",
+    "lat": "25.1356594",
+    "lon": "121.5028571",
+    "type": "school"
+  },
+  {
+    "place_name": "艾思專業才藝教室 Ace Professional Art School",
+    "address": " 112台北市北投區磺港路8-1號8樓",
+    "lat": "25.1332219",
+    "lon": "121.502156",
+    "type": "school"
+  },
+  {
+    "place_name": "Taipei Municipal Qingjiang Elementary School",
+    "address": " 112台北市北投區公舘路220號",
+    "lat": "25.1268231",
+    "lon": "121.5074753",
+    "type": "school"
+  },
+  {
+    "place_name": "Municipal Beitou Junior High School",
+    "address": " 112台北市北投區溫泉路62號",
+    "lat": "25.1344332",
+    "lon": "121.5046844",
+    "type": "school"
+  },
+  {
+    "place_name": "菁華資優文理補習班-磺港分校（幼華國中專班）",
+    "address": " 112台北市北投區磺港路8之1號9樓",
+    "lat": "25.133249",
+    "lon": "121.502095",
+    "type": "school"
+  },
+  {
+    "place_name": "Wego Elementary School",
+    "address": " 112台北市北投區育仁路106號",
+    "lat": "25.1360521",
+    "lon": "121.5008795",
+    "type": "school"
+  },
+  {
+    "place_name": "National Yang Ming Chiao Tung University",
+    "address": " 112台北市北投區立農街二段155號",
+    "lat": "25.1192972",
+    "lon": "121.5138765",
+    "type": "university"
+  },
+  {
+    "place_name": "Taipei National University of the Arts",
+    "address": " 112台北市北投區學園路1號",
+    "lat": "25.1325182",
+    "lon": "121.4696818",
+    "type": "university"
+  },
+  {
+    "place_name": "Aletheia University",
+    "address": " 251新北市淡水區真理街32號",
+    "lat": "25.1767715",
+    "lon": "121.434879",
+    "type": "university"
+  },
+  {
+    "place_name": "Tamkang University",
+    "address": " 251新北市淡水區英專路151號",
+    "lat": "25.1740706",
+    "lon": "121.4473008",
+    "type": "university"
+  },
+  {
+    "place_name": "Ming Chuan University Jihe Campus",
+    "address": " 111台北市士林區基河路130號",
+    "lat": "25.0891778",
+    "lon": "121.5226789",
+    "type": "university"
+  },
+  {
+    "place_name": "National Taiwan Normal University",
+    "address": " 106台北市大安區和平東路一段162號",
+    "lat": "25.0260878",
+    "lon": "121.5275484",
+    "type": "university"
+  },
+  {
+    "place_name": "University of Taipei, Tian-Mu Campus",
+    "address": " 11153台北市士林區忠誠路二段101號",
+    "lat": "25.1159064",
+    "lon": "121.5361787",
+    "type": "university"
+  },
+  {
+    "place_name": "Taipei City Mall",
+    "address": " 100台北市中正區市民大道一段100號B1",
+    "lat": "25.0495017",
+    "lon": "121.5136386",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Taiwan Shopping For Bags",
+    "address": " 103台北市大同區",
+    "lat": "25.0507424",
+    "lon": "121.5154027",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "大直美麗新廣場 NEW SQUARE",
+    "address": " 10491台北市中山區北安路780號",
+    "lat": "25.0849899",
+    "lon": "121.5537244",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "大圓環郵幣廣場",
+    "address": " 103台北市大同區南京西路163號",
+    "lat": "25.0540833",
+    "lon": "121.5130998",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "St. Ignatius Plaza",
+    "address": " 247新北市蘆洲區中山一路8號",
+    "lat": "25.080547",
+    "lon": "121.4804698",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Wanhua Junior High School",
+    "address": " 108台北市萬華區西藏路201號",
+    "lat": "25.0285877",
+    "lon": "121.4989765",
+    "type": "school"
+  },
+  {
+    "place_name": "Taipei Municipal Xiyuan Elementary School",
+    "address": " 108台北市萬華區東園街73巷65號",
+    "lat": "25.0267763",
+    "lon": "121.4983379",
+    "type": "school"
+  },
+  {
+    "place_name": "Shuangyuan Elementary School",
+    "address": " 108台北市萬華區莒光路315號",
+    "lat": "25.0308536",
+    "lon": "121.4981343",
+    "type": "school"
+  },
+  {
+    "place_name": "Dongyuan Elementary School",
+    "address": " 108台北市萬華區東園街195號",
+    "lat": "25.022978",
+    "lon": "121.497962",
+    "type": "school"
+  },
+  {
+    "place_name": "鷹萬游泳學校",
+    "address": " 108台北市萬華區西藏路201號",
+    "lat": "25.0291092",
+    "lon": "121.4987891",
+    "type": "school"
+  },
+  {
+    "place_name": "Shuang Yuan Junior High School",
+    "address": " 108台北市萬華區興義街2號",
+    "lat": "25.0276017",
+    "lon": "121.4920072",
+    "type": "school"
+  },
+  {
+    "place_name": "Taipei Korean School",
+    "address": " 108台北市萬華區青年路68巷1號",
+    "lat": "25.023801",
+    "lon": "121.5023949",
+    "type": "school"
+  },
+  {
+    "place_name": "National Taiwan Normal University",
+    "address": " 106台北市大安區和平東路一段162號",
+    "lat": "25.0260878",
+    "lon": "121.5275484",
+    "type": "university"
+  },
+  {
+    "place_name": "National Taiwan University",
+    "address": " 10617台北市大安區羅斯福路四段1號",
+    "lat": "25.0173405",
+    "lon": "121.5397518",
+    "type": "university"
+  },
+  {
+    "place_name": "Soochow University Downtown Campus",
+    "address": " 100台北市中正區貴陽街一段56號",
+    "lat": "25.0388477",
+    "lon": "121.5098858",
+    "type": "university"
+  },
+  {
+    "place_name": "National Taiwan University Shuiyuan Campus",
+    "address": " 100台北市中正區思源街18號",
+    "lat": "25.0139558",
+    "lon": "121.5294531",
+    "type": "university"
+  },
+  {
+    "place_name": "Chihlee University of Technology",
+    "address": " 220新北市板橋區文化路一段313號",
+    "lat": "25.0210986",
+    "lon": "121.4651279",
+    "type": "university"
+  },
+  {
+    "place_name": "National Taiwan University College of Medicine",
+    "address": " 100台北市中正區仁愛路一段1號",
+    "lat": "25.04008",
+    "lon": "121.5195309",
+    "type": "university"
+  },
+  {
+    "place_name": "National Taiwan University of Arts",
+    "address": " 220新北市板橋區大觀路一段59號",
+    "lat": "25.0060395",
+    "lon": "121.4488186",
+    "type": "university"
+  },
+  {
+    "place_name": "Taipei City Mall",
+    "address": " 100台北市中正區市民大道一段100號B1",
+    "lat": "25.0495017",
+    "lon": "121.5136386",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Taiwan Shopping For Bags",
+    "address": " 103台北市大同區",
+    "lat": "25.0507424",
+    "lon": "121.5154027",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Longshan Temple Street Underground",
+    "address": " 108台北市萬華區西園路一段145號",
+    "lat": "25.0360914",
+    "lon": "121.500261",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Magasin Robe",
+    "address": " No. 20, 昆明街96巷萬華區台北市108",
+    "lat": "25.0448506",
+    "lon": "121.5042571",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Q Square Mall",
+    "address": " 103台北市大同區承德路一段1號",
+    "lat": "25.049308",
+    "lon": "121.5171935",
+    "type": "shopping_mall"
+  },
+  {
+    "place_name": "Wen Hu Elementary School",
+    "address": " 114台北市內湖區文湖街15號",
+    "lat": "25.0863225",
+    "lon": "121.5599854",
+    "type": "school"
+  },
+  {
+    "place_name": "Dominican International School",
+    "address": " 104台北市中山區大直街76號",
+    "lat": "25.0851911",
+    "lon": "121.5466115",
+    "type": "school"
+  },
+  {
+    "place_name": "柏齡太鼓",
+    "address": " 104台北市中山區北安路805巷4弄1號B1",
+    "lat": "25.0860253",
+    "lon": "121.554461",
+    "type": "school"
+  },
+  {
+    "place_name": "Binjiang Junior High School",
+    "address": " 10462台北市中山區樂群二路262號",
+    "lat": "25.07955",
+    "lon": "121.5607499",
+    "type": "school"
+  },
+  {
+    "place_name": "Taipei Municipal Dazhi Elementary School",
+    "address": " 104台北市中山區大直街2號",
+    "lat": "25.0805261",
+    "lon": "121.5464127",
+    "type": "school"
+  },
+  {
+    "place_name": "Xihu Elementary School",
+    "address": " 114台北市內湖區環山路一段25號",
+    "lat": "25.0838152",
+    "lon": "121.5657339",
+    "type": "school"
+  },
+  {
+    "place_name": "Xihu Junior High School",
+    "address": " 114台北市內湖區環山路一段27號",
+    "lat": "25.0854627",
+    "lon": "121.5660775",
+    "type": "school"
+  }
+]

@@ -1,0 +1,268 @@
+{
+  "city+hall": [
+    {
+      "name": "臺北市政府",
+      "a": "https://www.google.com/maps/place/%E8%87%BA%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C/data=!4m7!3m6!1s0x3442aba4c7b541bd:0x64bb871eceec226d!8m2!3d25.0374508!4d121.5638224!16s%2Fg%2F11t9_gdjcy!19sChIJvUG1x6SrQjQRbSLszh6Hu2Q?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "city+hall",
+      "category": "市政府辦公室",
+      "lat": 25.0374508,
+      "lon": 121.5638224
+    },
+    {
+      "name": "市政府(市府)",
+      "a": "https://www.google.com/maps/place/%E5%B8%82%E6%94%BF%E5%BA%9C%28%E5%B8%82%E5%BA%9C%29/data=!4m7!3m6!1s0x3442abb9c73473bf:0x93f804cd37c60640!8m2!3d25.0383389!4d121.5638073!16s%2Fg%2F1vn9lslp!19sChIJv3M0x7mrQjQRQAbGN80E-JM?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "city+hall",
+      "category": "公車站",
+      "lat": 25.0383389,
+      "lon": 121.5638073
+    },
+    {
+      "name": "府前廣場地下停車場",
+      "a": "https://www.google.com/maps/place/%E5%BA%9C%E5%89%8D%E5%BB%A3%E5%A0%B4%E5%9C%B0%E4%B8%8B%E5%81%9C%E8%BB%8A%E5%A0%B4/data=!4m7!3m6!1s0x3442aba95a682819:0x576dacd8165633b3!8m2!3d25.0359834!4d121.5630113!16s%2Fg%2F11hph9_076!19sChIJGShoWqmrQjQRszNWFtisbVc?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "city+hall",
+      "category": "停車場",
+      "lat": 25.0359834,
+      "lon": 121.5630113
+    },
+    {
+      "name": "臺北市政府交通局",
+      "a": "https://www.google.com/maps/place/%E8%87%BA%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C%E4%BA%A4%E9%80%9A%E5%B1%80/data=!4m7!3m6!1s0x3442aba355425555:0xdb3b4ef9de8620a0!8m2!3d25.0378547!4d121.5641875!16s%2Fg%2F1q64qpclw!19sChIJVVVCVaOrQjQRoCCG3vlOO9s?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "city+hall",
+      "category": "交通運輸部門",
+      "lat": 25.0378547,
+      "lon": 121.5641875
+    },
+    {
+      "name": "臺北市政府勞動局",
+      "a": "https://www.google.com/maps/place/%E8%87%BA%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C%E5%8B%9E%E5%8B%95%E5%B1%80/data=!4m7!3m6!1s0x3442abb9dc73545d:0x7aca7829f4e43744!8m2!3d25.037531!4d121.5639969!16s%2Fg%2F1hcb3v3x6!19sChIJXVRz3LmrQjQRRDfk9Cl4yno?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "city+hall",
+      "category": "政府辦事處",
+      "lat": 25.037531,
+      "lon": 121.5639969
+    },
+    {
+      "name": "市政府(市府)",
+      "a": "https://www.google.com/maps/place/%E5%B8%82%E6%94%BF%E5%BA%9C%28%E5%B8%82%E5%BA%9C%29/data=!4m7!3m6!1s0x3442abb9b826d3db:0x44022f5af6c9ebb7!8m2!3d25.0385367!4d121.5634262!16s%2Fg%2F1hhkl6s2t!19sChIJ29MmuLmrQjQRt-vJ9lovAkQ?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "city+hall",
+      "category": "公車站",
+      "lat": 25.0385367,
+      "lon": 121.5634262
+    },
+    {
+      "name": "臺北市府郵局",
+      "a": "https://www.google.com/maps/place/%E8%87%BA%E5%8C%97%E5%B8%82%E5%BA%9C%E9%83%B5%E5%B1%80/data=!4m7!3m6!1s0x3442abb9dc73545d:0xc379bb555a5c687b!8m2!3d25.0375241!4d121.5638158!16s%2Fg%2F11xx4gzyd!19sChIJXVRz3LmrQjQRe2hcWlW7ecM?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "city+hall",
+      "category": "郵政局",
+      "lat": 25.0375241,
+      "lon": 121.5638158
+    },
+    {
+      "name": "市民廣場 City Hall Plaza",
+      "a": "https://www.google.com/maps/place/%E5%B8%82%E6%B0%91%E5%BB%A3%E5%A0%B4+City+Hall+Plaza/data=!4m7!3m6!1s0x3442ab275127aae9:0x1093273fc295cd!8m2!3d25.0384665!4d121.5634079!16s%2Fg%2F11ssx9vsbz!19sChIJ6aonUSerQjQRzZXCPyeTEAA?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "city+hall",
+      "category": "紀念公園",
+      "lat": 25.0384665,
+      "lon": 121.5634079
+    },
+    {
+      "name": "中國信託銀行 市府分行",
+      "a": "https://www.google.com/maps/place/%E4%B8%AD%E5%9C%8B%E4%BF%A1%E8%A8%97%E9%8A%80%E8%A1%8C+%E5%B8%82%E5%BA%9C%E5%88%86%E8%A1%8C/data=!4m7!3m6!1s0x3442abb0aefbc0e7:0x94f5cd5ddc8cfd3!8m2!3d25.0395874!4d121.5650578!16s%2Fg%2F12hl2dl3n!19sChIJ58D7rrCrQjQR08_I3dVcTwk?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "city+hall",
+      "category": "金融機構",
+      "lat": 25.0395874,
+      "lon": 121.5650578
+    },
+    {
+      "name": "五常公園",
+      "a": "https://www.google.com/maps/place/%E4%BA%94%E5%B8%B8%E5%85%AC%E5%9C%92/data=!4m7!3m6!1s0x3442ab98ff896cf1:0x47b691b5766dc784!8m2!3d25.047799!4d121.574513!16s%2Fg%2F1tfpxk88!19sChIJ8WyJ_5irQjQRhMdtdrWRtkc?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "city+hall",
+      "category": "旅遊景點",
+      "lat": 25.047799,
+      "lon": 121.574513
+    },
+    {
+      "name": "台北市政府地政局",
+      "a": "https://www.google.com/maps/place/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C%E5%9C%B0%E6%94%BF%E5%B1%80/data=!4m7!3m6!1s0x3442abb9dc7355b5:0xb749259cfdd8da08!8m2!3d25.0375241!4d121.5638158!16s%2Fg%2F1ydpq6fz1!19sChIJtVVz3LmrQjQRCNrY_ZwlSbc?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "city+hall",
+      "category": "地方政府機構",
+      "lat": 25.0375241,
+      "lon": 121.5638158
+    },
+    {
+      "name": "台北市政府衛生局人事室",
+      "a": "https://www.google.com/maps/place/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C%E8%A1%9B%E7%94%9F%E5%B1%80%E4%BA%BA%E4%BA%8B%E5%AE%A4/data=!4m7!3m6!1s0x3442abcb0391a5c9:0x38a659be2f510f27!8m2!3d25.0372783!4d121.5648767!16s%2Fg%2F11gnsf7yyh!19sChIJyaWRA8urQjQRJw9RL75Zpjg?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "city+hall",
+      "category": "區域政府辦事處",
+      "lat": 25.0372783,
+      "lon": 121.5648767
+    },
+    {
+      "name": "臺北市建築管理工程處",
+      "a": "https://www.google.com/maps/place/%E8%87%BA%E5%8C%97%E5%B8%82%E5%BB%BA%E7%AF%89%E7%AE%A1%E7%90%86%E5%B7%A5%E7%A8%8B%E8%99%95/data=!4m7!3m6!1s0x3442abb9dc73545d:0xa00e104a890cf984!8m2!3d25.0374466!4d121.5638846!16s%2Fg%2F12hl0g06v!19sChIJXVRz3LmrQjQRhPkMiUoQDqA?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "city+hall",
+      "category": "公共工程部",
+      "lat": 25.0374466,
+      "lon": 121.5638846
+    },
+    {
+      "name": "台北市政府社會局兒童及少年福利科",
+      "a": "https://www.google.com/maps/place/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C%E7%A4%BE%E6%9C%83%E5%B1%80%E5%85%92%E7%AB%A5%E5%8F%8A%E5%B0%91%E5%B9%B4%E7%A6%8F%E5%88%A9%E7%A7%91/data=!4m7!3m6!1s0x3442abb0ffffffff:0x6fdcdfdd68227907!8m2!3d25.037531!4d121.5639969!16s%2Fg%2F11h9xs56dx!19sChIJ_____7CrQjQRB3kiaN3f3G8?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "city+hall",
+      "category": "政府辦事處",
+      "lat": 25.037531,
+      "lon": 121.5639969
+    },
+    {
+      "name": "市政府(松壽)",
+      "a": "https://www.google.com/maps/place/%E5%B8%82%E6%94%BF%E5%BA%9C%28%E6%9D%BE%E5%A3%BD%29/data=!4m7!3m6!1s0x3442abb7440e3ccb:0x8888ff417d2e2ebb!8m2!3d25.035978!4d121.5645311!16s%2Fg%2F1wfvkc78!19sChIJyzwORLerQjQRuy4ufUH_iIg?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "city+hall",
+      "category": "公車站",
+      "lat": 25.035978,
+      "lon": 121.5645311
+    },
+    {
+      "name": "台北市政府 FastBook全自動借書站",
+      "a": "https://www.google.com/maps/place/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C+FastBook%E5%85%A8%E8%87%AA%E5%8B%95%E5%80%9F%E6%9B%B8%E7%AB%99/data=!4m7!3m6!1s0x3442abbb68c63b59:0x2f091355b08075d2!8m2!3d25.037531!4d121.5639969!16s%2Fg%2F11hb4y1lpr!19sChIJWTvGaLurQjQR0nWAsFUTCS8?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "city+hall",
+      "category": "圖書館",
+      "lat": 25.037531,
+      "lon": 121.5639969
+    },
+    {
+      "name": "市政府(松壽)",
+      "a": "https://www.google.com/maps/place/%E5%B8%82%E6%94%BF%E5%BA%9C%28%E6%9D%BE%E5%A3%BD%29/data=!4m7!3m6!1s0x3442abb744398f15:0x5bd40e62705964b7!8m2!3d25.0359621!4d121.5645472!16s%2Fg%2F1q679gcbq!19sChIJFY85RLerQjQRt2RZcGIO1Fs?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "city+hall",
+      "category": "公車站",
+      "lat": 25.0359621,
+      "lon": 121.5645472
+    },
+    {
+      "name": "台北市政府-消費諮詢及法律扶助報到櫃台",
+      "a": "https://www.google.com/maps/place/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C-%E6%B6%88%E8%B2%BB%E8%AB%AE%E8%A9%A2%E5%8F%8A%E6%B3%95%E5%BE%8B%E6%89%B6%E5%8A%A9%E5%A0%B1%E5%88%B0%E6%AB%83%E5%8F%B0/data=!4m7!3m6!1s0x3442aba241ebf07b:0x1048138f9345e803!8m2!3d25.0374744!4d121.564518!16s%2Fg%2F11rv6hrzvs!19sChIJe_DrQaKrQjQRA-hFk48TSBA?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "city+hall",
+      "category": "政府辦事處",
+      "lat": 25.0374744,
+      "lon": 121.564518
+    },
+    {
+      "name": "台北市政府社會局",
+      "a": "https://www.google.com/maps/place/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C%E7%A4%BE%E6%9C%83%E5%B1%80/data=!4m7!3m6!1s0x3442ab698ecf2ab5:0x3fa2bbeb2ddbe02!8m2!3d25.0378832!4d121.564861!16s%2Fg%2F11gj4j8ds3!19sChIJtSrPjmmrQjQRAr7dsr4r-gM?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "city+hall",
+      "category": "地方政府機構",
+      "lat": 25.0378832,
+      "lon": 121.564861
+    },
+    {
+      "name": "台北探索館",
+      "a": "https://www.google.com/maps/place/%E5%8F%B0%E5%8C%97%E6%8E%A2%E7%B4%A2%E9%A4%A8/data=!4m7!3m6!1s0x3442abb9dc73545d:0xcb433c6bad08b4d6!8m2!3d25.0375241!4d121.5638158!16s%2Fm%2F0wr3mw4!19sChIJXVRz3LmrQjQR1rQIrWs8Q8s?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "city+hall",
+      "category": "旅遊景點",
+      "lat": 25.0375241,
+      "lon": 121.5638158
+    },
+    {
+      "name": "市民聯合服務中心",
+      "a": "https://www.google.com/maps/place/%E5%B8%82%E6%B0%91%E8%81%AF%E5%90%88%E6%9C%8D%E5%8B%99%E4%B8%AD%E5%BF%83/data=!4m7!3m6!1s0x3442abb9f00ea8eb:0xd0cdaa0d7a9ac606!8m2!3d25.0375336!4d121.5648948!16s%2Fg%2F11f3m57ghp!19sChIJ66gO8LmrQjQRBsaaeg2qzdA?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "city+hall",
+      "category": "政府辦事處",
+      "lat": 25.0375336,
+      "lon": 121.5648948
+    },
+    {
+      "name": "台北市政府主計處",
+      "a": "https://www.google.com/maps/place/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C%E4%B8%BB%E8%A8%88%E8%99%95/data=!4m7!3m6!1s0x3442abb9dc73545d:0x4cae6e7515367070!8m2!3d25.037531!4d121.5639969!16s%2Fg%2F11b67txm8h!19sChIJXVRz3LmrQjQRcHA2FXVurkw?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "city+hall",
+      "category": "地方政府機構",
+      "lat": 25.037531,
+      "lon": 121.5639969
+    },
+    {
+      "name": "防空避難室",
+      "a": "https://www.google.com/maps/place/%E9%98%B2%E7%A9%BA%E9%81%BF%E9%9B%A3%E5%AE%A4/data=!4m7!3m6!1s0x3442ab5da35eaa7d:0x1b0038e847e2d666!8m2!3d25.037531!4d121.5639969!16s%2Fg%2F11p_0f15dd!19sChIJfapeo12rQjQRZtbiR-g4ABs?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "city+hall",
+      "category": "政府辦事處",
+      "lat": 25.037531,
+      "lon": 121.5639969
+    },
+    {
+      "name": "台北市政府商業處",
+      "a": "https://www.google.com/maps/place/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C%E5%95%86%E6%A5%AD%E8%99%95/data=!4m7!3m6!1s0x3442abdb65dd2a8f:0x8fda649b89658699!8m2!3d25.0385293!4d121.5647971!16s%2Fg%2F11v5x6sq_w!19sChIJjyrdZdurQjQRmYZliZtk2o8?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "city+hall",
+      "category": "地方政府機構",
+      "lat": 25.0385293,
+      "lon": 121.5647971
+    },
+    {
+      "name": "台北市政府民政局",
+      "a": "https://www.google.com/maps/place/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C%E6%B0%91%E6%94%BF%E5%B1%80/data=!4m7!3m6!1s0x3442abb9dc73545d:0xdb6fc03a4766ca0!8m2!3d25.037531!4d121.5639969!16s%2Fg%2F1hm26zw5_!19sChIJXVRz3LmrQjQRoGx2pAP8tg0?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "city+hall",
+      "category": "地方政府機構",
+      "lat": 25.037531,
+      "lon": 121.5639969
+    },
+    {
+      "name": "臺北市政府 衛生局",
+      "a": "https://www.google.com/maps/place/%E8%87%BA%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C+%E8%A1%9B%E7%94%9F%E5%B1%80/data=!4m7!3m6!1s0x3442abb9dc73545d:0x4357e652f51c35e4!8m2!3d25.0373898!4d121.5642937!16s%2Fg%2F12qh7m6w0!19sChIJXVRz3LmrQjQR5DUc9VLmV0M?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "city+hall",
+      "category": "公共衛生部門",
+      "lat": 25.0373898,
+      "lon": 121.5642937
+    },
+    {
+      "name": "市政府(松高)",
+      "a": "https://www.google.com/maps/place/%E5%B8%82%E6%94%BF%E5%BA%9C%28%E6%9D%BE%E9%AB%98%29/data=!4m7!3m6!1s0x3442abb99a6ec975:0x244e1241439f0a98!8m2!3d25.0390112!4d121.5646428!16s%2Fg%2F11b8251hg3!19sChIJdclumrmrQjQRmAqfQ0ESTiQ?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "city+hall",
+      "category": "公車站",
+      "lat": 25.0390112,
+      "lon": 121.5646428
+    },
+    {
+      "name": "台北市政府水利工程處",
+      "a": "https://www.google.com/maps/place/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C%E6%B0%B4%E5%88%A9%E5%B7%A5%E7%A8%8B%E8%99%95/data=!4m7!3m6!1s0x3442abb9dc7355b5:0xe62a5b27ace3f13!8m2!3d25.0371665!4d121.5646286!16s%2Fg%2F1tvq1tdt!19sChIJtVVz3LmrQjQREz_OerKlYg4?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "city+hall",
+      "category": "政府辦事處",
+      "lat": 25.0371665,
+      "lon": 121.5646286
+    },
+    {
+      "name": "台北富邦銀行 市府分行",
+      "a": "https://www.google.com/maps/place/%E5%8F%B0%E5%8C%97%E5%AF%8C%E9%82%A6%E9%8A%80%E8%A1%8C+%E5%B8%82%E5%BA%9C%E5%88%86%E8%A1%8C/data=!4m7!3m6!1s0x3442abb831d90baf:0xccc425d909c82b0d!8m2!3d25.037531!4d121.5639969!16s%2Fg%2F1tnbhv4n!19sChIJrwvZMbirQjQRDSvICdklxMw?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "city+hall",
+      "category": "銀行",
+      "lat": 25.037531,
+      "lon": 121.5639969
+    },
+    {
+      "name": "台北市政府衛生局健康管理科",
+      "a": "https://www.google.com/maps/place/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C%E8%A1%9B%E7%94%9F%E5%B1%80%E5%81%A5%E5%BA%B7%E7%AE%A1%E7%90%86%E7%A7%91/data=!4m7!3m6!1s0x3442abb122c65fb7:0x73f03333b9c6bd23!8m2!3d25.037531!4d121.5639969!16s%2Fg%2F1pzrwsb0c!19sChIJt1_GIrGrQjQRI73GuTMz8HM?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "city+hall",
+      "category": "政府辦事處",
+      "lat": 25.037531,
+      "lon": 121.5639969
+    },
+    {
+      "name": "台北市政府前廣場",
+      "a": "https://www.google.com/maps/place/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C%E5%89%8D%E5%BB%A3%E5%A0%B4/data=!4m7!3m6!1s0x3442abb767a18a7d:0xc0f5f77c329ce2e7!8m2!3d25.0372619!4d121.5633327!16s%2Fg%2F1ydpndmwb!19sChIJfYqhZ7erQjQR5-KcMnz39cA?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "city+hall",
+      "category": "露天廣場",
+      "lat": 25.0372619,
+      "lon": 121.5633327
+    },
+    {
+      "name": "市政府(松智)",
+      "a": "https://www.google.com/maps/place/%E5%B8%82%E6%94%BF%E5%BA%9C%28%E6%9D%BE%E6%99%BA%29/data=!4m7!3m6!1s0x3442abba01d38e43:0x8a162cecea6ddc24!8m2!3d25.0367849!4d121.5656213!16s%2Fg%2F1q67h702r!19sChIJQ47TAbqrQjQRJNxt6uwsFoo?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "city+hall",
+      "category": "公車站",
+      "lat": 25.0367849,
+      "lon": 121.5656213
+    },
+    {
+      "name": "市政府(松智)",
+      "a": "https://www.google.com/maps/place/%E5%B8%82%E6%94%BF%E5%BA%9C%28%E6%9D%BE%E6%99%BA%29/data=!4m7!3m6!1s0x3442abb9ffab80fd:0x8645acd5ac0c6276!8m2!3d25.0368!4d121.56532!16s%2Fg%2F1q67ps26d!19sChIJ_YCr_7mrQjQRdmIMrNWsRYY?authuser=0&hl=zh-TW&rclk=1",
+      "keyword": "city+hall",
+      "category": "巴士站",
+      "lat": 25.0368,
+      "lon": 121.56532
+    }
+  ]
+}
