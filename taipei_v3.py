@@ -49,11 +49,27 @@ def scrape_data(ty):
         driver.get(__url)
         start = time.time()
         processing = 0
-        while processing <= 120:
+        prev_data_length = 0
+        while processing <= 40:
+            content = driver.page_source
+            tmp_soup = Soup(content, "html.parser")
+            tmp_divs = tmp_soup.find_all(class_="TFQHme")
+            data_length = len(tmp_divs)
+            time.sleep(0.1)
+            # print(prev_data_length, data_length)
             try:
-                element = driver.find_element(By.CSS_SELECTOR, '.lXJj5c.Hk4XGb')
-                driver.execute_script("arguments[0].scrollIntoView();", element)
-                time.sleep(2.5 if processing > 70 else 1.5)
+                if data_length != prev_data_length:
+                    element = driver.find_element(By.CSS_SELECTOR, '.lXJj5c.Hk4XGb')
+                    driver.execute_script("arguments[0].scrollIntoView();", element)
+                    prev_data_length = data_length
+                    start = time.time()
+                else:
+                    try:
+                        element = driver.find_element(By.CSS_SELECTOR, '.HlvSq')
+                        driver.execute_script("arguments[0].scrollIntoView();", element)
+                        break
+                    except:
+                        pass
             except:
                 element = driver.find_element(By.CSS_SELECTOR, '.HlvSq')
                 driver.execute_script("arguments[0].scrollIntoView();", element)
