@@ -3,9 +3,7 @@ from tool import find_lat_lon, within_distance
 import time
 
 import os
-import pandas as pd
 import json
-import csv
 from selenium import webdriver
 from bs4 import BeautifulSoup as Soup
 from selenium.webdriver.chrome.options import Options
@@ -18,7 +16,7 @@ options = Options()
 service = Service()
 
 options = webdriver.ChromeOptions()
-# options.add_argument("--headless")
+options.add_argument("--headless")
 options.add_argument("--no-sandbox")
 options.add_argument("--disable-dev-shm-usage")
 options.add_argument("--lang=en-US")
@@ -52,7 +50,7 @@ a1 =  time.time()
 
 for ty in genres:
     a2 = time.time()
-    file_path = f"data/taipei_{ty}.json"
+    file_path = f"taipei/{ty}.json"
     if os.path.exists(file_path):
         with open(file_path) as f:
             data = json.load(f)

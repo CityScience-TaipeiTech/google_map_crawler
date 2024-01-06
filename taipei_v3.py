@@ -4,7 +4,6 @@ import time
 import os
 from multiprocessing import Pool
 
-import pandas as pd
 from selenium import webdriver
 from bs4 import BeautifulSoup as Soup
 from selenium.webdriver.chrome.options import Options
@@ -25,7 +24,7 @@ def scrape_data(ty):
     options = Options()
     service = Service()
     options = webdriver.ChromeOptions()
-    # options.add_argument("--headless")
+    options.add_argument("--headless")
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
     options.add_argument("--lang=en-US")
