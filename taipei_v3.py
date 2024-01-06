@@ -85,14 +85,19 @@ def scrape_data(ty):
         for outer_div in category:
             inner_div = outer_div.find('div', class_='W4Efsd')
             if inner_div:
-                span_text = inner_div.find('span').text
-                categories.append(span_text)
+                span_text = inner_div.find_all('span')
+                if len(span_text) == 2:
+                    categories.append([])
+                else:
+                    categories.append(span_text[0].text)
+                
         for i, r in enumerate(zip(divs, arefs)):
             href = str(r[1].get('href'))
             lat2, lon2 = find_lat_lon(href)
             if lat2 is not None:
-                if within_distance(lat1=lat, lon1=lon, lat2=lat2, lon2=lon2, max_distance=350):
-                    place_set.add((r[0].text, href, ty, categories[i], lat2, lon2))
+                if categories[i] != []:
+                    if within_distance(lat1=lat, lon1=lon, lat2=lat2, lon2=lon2, max_distance=350):
+                        place_set.add((r[0].text, href, ty, categories[i], lat2, lon2))
     driver.quit()
 
     for info in place_set:

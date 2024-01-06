@@ -65,6 +65,7 @@ for ty in genres:
         place_name = []
 
         __url = f"https://www.google.com/maps/search/{ty}/@{lat},{lon},16z/data=!3m1!4b1!4m6!2m5!3m4!2s{lat},+{lon}!4m2!1d{lon}!2d{lat}?hl=en?entry=ttu"
+        __url = "https://www.google.com/maps/search/%E9%A4%90%E5%BB%B3/@24.9682597,121.4258838,15z/data=!4m2!2m1!6e5?authuser=0&entry=ttu"
         print(__url)
         driver.get(__url)
         start = time.time()
@@ -105,14 +106,19 @@ for ty in genres:
         for outer_div in category:
             inner_div = outer_div.find('div', class_='W4Efsd')
             if inner_div:
-                span_text = inner_div.find('span').text
-                categories.append(span_text)
+                span_text = inner_div.find_all('span')
+                if len(span_text) == 2:
+                    categories.append([])
+                else:
+                    categories.append(span_text[0].text)
+                
         for i, r in enumerate(zip(divs, arefs)):
             href = str(r[1].get('href'))
             lat2, lon2 = find_lat_lon(href)
             if lat2 is not None:
-                if within_distance(lat1=lat, lon1=lon, lat2=lat2, lon2=lon2, max_distance=350):
-                    place_set.add((r[0].text, href, ty, categories[i], lat2, lon2))
+                if categories[i] != []:
+                    if within_distance(lat1=lat, lon1=lon, lat2=lat2, lon2=lon2, max_distance=350):
+                        place_set.add((r[0].text, href, ty, categories[i], lat2, lon2))
                     # place_name.append({"name": r[0].text, "a": href, "keyword": ty, 'category': categories[i], "lat": lat2, "lon": lon2})
 
     for info in place_set:
