@@ -25,7 +25,7 @@ python3 taipei_v2.py
 3. 一次抓取所有類別的所有地點（平行處理）
 
 ```shell
-python3 taipei_v2.py
+python3 taipei_v3.py
 ```
 
 > ⚠️ 會一次開啟 96 個瀏覽器
