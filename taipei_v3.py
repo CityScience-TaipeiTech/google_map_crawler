@@ -24,7 +24,7 @@ def scrape_data(ty):
     options = Options()
     service = Service()
     options = webdriver.ChromeOptions()
-    options.add_argument("--headless")
+    # options.add_argument("--headless")
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
     options.add_argument("--lang=en-US")
@@ -32,25 +32,28 @@ def scrape_data(ty):
     driver = webdriver.Chrome(service=service, options=options)
 
     file_path = f"taipei/{ty}.json"
-    if os.path.exists(file_path):
-        with open(file_path) as f:
-            data = json.load(f)
-    else:
-        data = {}
+    # if os.path.exists(file_path):
+    #     with open(file_path) as f:
+    #         data = json.load(f)
+    # else:
+    #     data = {}
+    data = {}
 
     place_set = set()
-    for point in coordinates:
+    for i, point in enumerate(coordinates[5030:5031]):
         lat = point['geometry']['coordinates'][1]
         lon = point['geometry']['coordinates'][0]
 
-        place_name = []
+        # lat = 42.3611444
+        # lon = -71.1023658
 
+        place_name = []
         __url = f"https://www.google.com/maps/search/{ty}/@{lat},{lon},16z/data=!3m1!4b1!4m6!2m5!3m4!2s{lat},+{lon}!4m2!1d{lon}!2d{lat}?hl=en?entry=ttu"
         driver.get(__url)
         start = time.time()
         processing = 0
         prev_data_length = 0
-        while processing <= 40:
+        while processing <= 30:
             content = driver.page_source
             tmp_soup = Soup(content, "html.parser")
             tmp_divs = tmp_soup.find_all(class_="TFQHme")
@@ -81,29 +84,54 @@ def scrape_data(ty):
         divs = soup.find_all(class_="qBF1Pd fontHeadlineSmall")
         arefs = soup.find_all(class_="hfpxzc")
         category = soup.find_all(class_="W4Efsd")
+        review = soup.find_all(class_="e4rVHe fontBodyMedium")
         categories = []
+        addresses = []
+        comment = []
         for outer_div in category:
             inner_div = outer_div.find('div', class_='W4Efsd')
-            if inner_div:
+            if inner_div is not None:
                 span_text = inner_div.find_all('span')
-                if len(span_text) == 2:
-                    categories.append([])
+                categories.append(span_text[0].text)
+                addresses.append(span_text[-1].text if span_text[-1].text!=span_text[0].text else "")
+
+        if review != []:
+            for outer_span in review:
+                inner_div = outer_span.find('span', class_='ZkP5Je')
+                if inner_div is not None:
+                    star = outer_span.find('span', class_='MW4etd')
+                    reviews = outer_span.find('span', class_='UY7F9')
+                    comment.append([float(star.text), int(reviews.text[1:-1].replace(",", ""))])
                 else:
-                    categories.append(span_text[0].text)
+                    comment.append(["", ""])
+        else:
+            comment = [["", ""]] * len(categories)
                 
         for i, r in enumerate(zip(divs, arefs)):
             href = str(r[1].get('href'))
             lat2, lon2 = find_lat_lon(href)
             if lat2 is not None:
-                if categories[i] != []:
-                    if within_distance(lat1=lat, lon1=lon, lat2=lat2, lon2=lon2, max_distance=350):
-                        place_set.add((r[0].text, href, ty, categories[i], lat2, lon2))
+                if within_distance(lat1=lat, lon1=lon, lat2=lat2, lon2=lon2, max_distance=600):
+                    place_set.add((r[0].text, href, ty, categories[i], lat2, lon2, addresses[i], comment[i][0], comment[i][1]))
+        
+        if i % 10 == 0:
+            for info in place_set:
+                place_name.append({"name": info[0], "a": info[1], "keyword": info[2], 'category': info[3], "lat": info[4], "lon": info[5], "address": info[6], "star": info[7], "comments": info[8]})
+            
+            data[ty] = place_name
+            data["check_point"] = i
+
+            with open(file_path, "w") as f:
+                json.dump(data, f)
+
     driver.quit()
 
     for info in place_set:
-        place_name.append({"name": info[0], "a": info[1], "keyword": info[2], 'category': info[3], "lat": info[4], "lon": info[5]})
+        # print(info)
+        place_name.append({"name": info[0], "a": info[1], "keyword": info[2], 'category': info[3], "lat": info[4], "lon": info[5], "address": info[6], "star": info[7], "comments": info[8]})
 
     data[ty] = place_name
+    data["check_point"] = -1
 
     with open(file_path, "w") as f:
         json.dump(data, f)
@@ -126,6 +154,16 @@ if __name__ == "__main__":
     "travel+agency", "university", "veterinary+care", "zoo"
 ]
     
+    # for k in range(0, 12):
+        # print(k)
+        # genre = genres[8*k: 8*(k+1)]
+        # print(len(genre))
+    
+    # genres = ["storage", "store", "subway+station", "supermarket", "synagogue", "taxi+stand", "tourist+attraction", "train+station", "transit+station",
+    # "travel+agency", "university"]
+
+    # genres = ["transit+station"]
+
     with Pool(processes=len(genres)) as pool:
         pool.map(scrape_data, genres)
 

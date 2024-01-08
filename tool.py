@@ -2,8 +2,8 @@ import re
 from geopy.distance import geodesic
 
 def find_lat_lon(url):
-    latitude_match = re.search(r'!3d(\d+\.\d+)!', url)
-    longitude_match = re.search(r'!4d(\d+\.\d+)!', url)
+    latitude_match = re.search(r'!3d(-?\d+\.\d+)!', url)
+    longitude_match = re.search(r'!4d(-?\d+\.\d+)!', url)
 
     if latitude_match and longitude_match:
         latitude = float(latitude_match.group(1))

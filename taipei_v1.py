@@ -40,7 +40,9 @@ genres = [
     "travel+agency", "university", "veterinary+care", "zoo"
 ]
 
-# genres = ["library", "store", "park", "city+hall", "school", "airport", "zoo", "university", "book+store", "night+club", "parking"]
+genres = ["library", "store", "park", "city+hall", "school", "airport", "zoo", "university", "book+store", "night+club", "parking"]
+
+# genres = ["store"]
 
 with open('Taipei_point_100m_lat_lon.geojson') as f:
     coordinates = json.load(f)['features']
@@ -58,14 +60,14 @@ for ty in genres:
 
     place_set = set()
 
-    for point in coordinates:
+    for i, point in enumerate(coordinates):
         lat = point['geometry']['coordinates'][1]
         lon = point['geometry']['coordinates'][0]
 
         place_name = []
 
         __url = f"https://www.google.com/maps/search/{ty}/@{lat},{lon},16z/data=!3m1!4b1!4m6!2m5!3m4!2s{lat},+{lon}!4m2!1d{lon}!2d{lat}?hl=en?entry=ttu"
-        __url = "https://www.google.com/maps/search/%E9%A4%90%E5%BB%B3/@24.9682597,121.4258838,15z/data=!4m2!2m1!6e5?authuser=0&entry=ttu"
+        # __url = "https://www.google.com/maps/search/%E9%A4%90%E5%BB%B3/@24.9682597,121.4258838,15z/data=!4m2!2m1!6e5?authuser=0&entry=ttu"
         print(__url)
         driver.get(__url)
         start = time.time()
