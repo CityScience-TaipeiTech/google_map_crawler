@@ -53,7 +53,7 @@ def scrape_data(ty):
         start = time.time()
         processing = 0
         prev_data_length = 0
-        while processing <= 30:
+        while processing <= 60:
             content = driver.page_source
             tmp_soup = Soup(content, "html.parser")
             tmp_divs = tmp_soup.find_all(class_="TFQHme")
@@ -139,7 +139,7 @@ def scrape_data(ty):
     print(f"Type: {ty} finished on CPU {os.getpid()} | Processing: {time.time() - a2} | Total: {time.time() - a1}")
 
 if __name__ == "__main__":
-    genres = [
+    genre = [
     "accounting", "airport", "amusement+park", "aquarium", "art+gallery", "atm", "bakery", "bank",
     "bar", "beauty+salon", "bicycle+store", "book+store", "bowling+alley", "bus+station", "cafe", "campground",
     "car+dealer", "car+rental", "car+repair", "car+wash", "casino", "cemetery", "church", "city+hall",
@@ -154,17 +154,17 @@ if __name__ == "__main__":
     "travel+agency", "university", "veterinary+care", "zoo"
 ]
     
-    # for k in range(0, 12):
-        # print(k)
-        # genre = genres[8*k: 8*(k+1)]
-        # print(len(genre))
-    
+    for k in range(0, 8):
+        print(k)
+        genres = genre[12*k: 12*(k+1)]
+        print(len(genre))
+
     # genres = ["storage", "store", "subway+station", "supermarket", "synagogue", "taxi+stand", "tourist+attraction", "train+station", "transit+station",
     # "travel+agency", "university"]
 
     # genres = ["transit+station"]
 
-    with Pool(processes=len(genres)) as pool:
-        pool.map(scrape_data, genres)
+        with Pool(processes=len(genres)) as pool:
+            pool.map(scrape_data, genres)
 
     
