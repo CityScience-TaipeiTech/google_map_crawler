@@ -11,7 +11,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 
 
-with open('Taipei_point_100m_lat_lon.geojson') as f:
+with open('Taipei_Point_500m_lat_lon.geojson') as f:
     coordinates = json.load(f)['features']
 
 # coordinate = [(25.0371, 121.566), (25.0474, 121.572)]
@@ -40,7 +40,7 @@ def scrape_data(ty):
     data = {}
 
     place_set = set()
-    for i, point in enumerate(coordinates[5030:5031]):
+    for i, point in enumerate(coordinates[200:201]):
         lat = point['geometry']['coordinates'][1]
         lon = point['geometry']['coordinates'][0]
 
@@ -53,7 +53,7 @@ def scrape_data(ty):
         start = time.time()
         processing = 0
         prev_data_length = 0
-        while processing <= 60:
+        while processing <= 80:
             content = driver.page_source
             tmp_soup = Soup(content, "html.parser")
             tmp_divs = tmp_soup.find_all(class_="TFQHme")
@@ -136,7 +136,7 @@ def scrape_data(ty):
     with open(file_path, "w") as f:
         json.dump(data, f)
 
-    print(f"Type: {ty} finished on CPU {os.getpid()} | Processing: {time.time() - a2} | Total: {time.time() - a1}")
+    print(f"Type: {ty} finished | Processing: {time.time() - a2} | Total: {time.time() - a1} | On CPU {os.getpid()}")
 
 if __name__ == "__main__":
     genre = [
@@ -155,9 +155,8 @@ if __name__ == "__main__":
 ]
     
     for k in range(0, 8):
-        print(k)
+        print(f"{k+1}/8")
         genres = genre[12*k: 12*(k+1)]
-        print(len(genre))
 
     # genres = ["storage", "store", "subway+station", "supermarket", "synagogue", "taxi+stand", "tourist+attraction", "train+station", "transit+station",
     # "travel+agency", "university"]
