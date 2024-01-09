@@ -7,3 +7,4 @@ geopy
 shapely
 fiona
 pyproj
+tqdm

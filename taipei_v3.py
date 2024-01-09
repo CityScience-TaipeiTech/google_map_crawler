@@ -40,7 +40,7 @@ def scrape_data(ty):
     data = {}
 
     place_set = set()
-    for i, point in enumerate(coordinates):
+    for idx, point in enumerate(coordinates):
         lat = point['geometry']['coordinates'][1]
         lon = point['geometry']['coordinates'][0]
 
@@ -114,15 +114,18 @@ def scrape_data(ty):
                 if within_distance(lat1=lat, lon1=lon, lat2=lat2, lon2=lon2, max_distance=600):
                     place_set.add((r[0].text, href, ty, categories[i], lat2, lon2, addresses[i], comment[i][0], comment[i][1]))
         
-        if i % 10 == 0:
+        if idx % 10 == 0:
             for info in place_set:
                 place_name.append({"name": info[0], "a": info[1], "keyword": info[2], 'category': info[3], "lat": info[4], "lon": info[5], "address": info[6], "star": info[7], "comments": info[8]})
             
             data[ty] = place_name
-            data["check_point"] = i
+            data["check_point"] = idx
 
             with open(file_path, "w") as f:
                 json.dump(data, f)
+        
+        if idx % 100 == 0:
+            print(f">> Type: {ty} - {idx+1}/{len(coordinates)}")
 
     driver.quit()
 
@@ -155,7 +158,7 @@ if __name__ == "__main__":
 ]
     
     for k in range(0, 8):
-        print(f"{k+1}/8")
+        print(f"[ {k+1}/8 ]")
         genres = genre[12*k: 12*(k+1)]
 
     # genres = ["storage", "store", "subway+station", "supermarket", "synagogue", "taxi+stand", "tourist+attraction", "train+station", "transit+station",
