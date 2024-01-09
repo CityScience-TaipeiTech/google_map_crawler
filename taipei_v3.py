@@ -24,7 +24,7 @@ def scrape_data(ty):
     options = Options()
     service = Service()
     options = webdriver.ChromeOptions()
-    # options.add_argument("--headless")
+    options.add_argument("--headless")
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
     options.add_argument("--lang=en-US")
@@ -40,7 +40,7 @@ def scrape_data(ty):
     data = {}
 
     place_set = set()
-    for i, point in enumerate(coordinates[200:201]):
+    for i, point in enumerate(coordinates):
         lat = point['geometry']['coordinates'][1]
         lon = point['geometry']['coordinates'][0]
 
