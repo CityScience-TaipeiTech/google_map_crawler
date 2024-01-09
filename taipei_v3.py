@@ -10,6 +10,13 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 
+import logging
+
+logger = logging.getLogger("google_crawler_logger")
+logger.setLevel(logging.DEBUG)
+
+stream_handler = logging.StreamHandler()
+logger.addHandler(stream_handler)
 
 with open('Taipei_Point_500m_lat_lon.geojson') as f:
     coordinates = json.load(f)['features']
@@ -59,7 +66,7 @@ def scrape_data(ty):
             tmp_divs = tmp_soup.find_all(class_="TFQHme")
             data_length = len(tmp_divs)
             time.sleep(0.1)
-            # print(prev_data_length, data_length)
+            # logger.debug(prev_data_length, data_length)
             try:
                 if data_length != prev_data_length:
                     element = driver.find_element(By.CSS_SELECTOR, '.lXJj5c.Hk4XGb')
@@ -124,13 +131,13 @@ def scrape_data(ty):
             with open(file_path, "w") as f:
                 json.dump(data, f)
         
-        if idx % 100 == 0:
-            print(f">> Type: {ty} - {idx+1}/{len(coordinates)}")
+        if idx % 100 == 0 and idx != 0:
+            logger.debug(f">> {ty} - {idx}/{len(coordinates)} | Time: {time.time() - a1}")
 
     driver.quit()
 
     for info in place_set:
-        # print(info)
+        # logger.debug(info)
         place_name.append({"name": info[0], "a": info[1], "keyword": info[2], 'category': info[3], "lat": info[4], "lon": info[5], "address": info[6], "star": info[7], "comments": info[8]})
 
     data[ty] = place_name
@@ -139,7 +146,7 @@ def scrape_data(ty):
     with open(file_path, "w") as f:
         json.dump(data, f)
 
-    print(f"Type: {ty} finished | Processing: {time.time() - a2} | Total: {time.time() - a1} | On CPU {os.getpid()}")
+    logger.debug(f"Type: {ty} finished | Processing: {time.time() - a2} | Total: {time.time() - a1}")
 
 if __name__ == "__main__":
     genre = [
@@ -158,7 +165,7 @@ if __name__ == "__main__":
 ]
     
     for k in range(0, 8):
-        print(f"[ {k+1}/8 ]")
+        logger.debug(f"[ {k+1}/8 ]")
         genres = genre[12*k: 12*(k+1)]
 
     # genres = ["storage", "store", "subway+station", "supermarket", "synagogue", "taxi+stand", "tourist+attraction", "train+station", "transit+station",
@@ -168,5 +175,3 @@ if __name__ == "__main__":
 
         with Pool(processes=len(genres)) as pool:
             pool.map(scrape_data, genres)
-
-    
