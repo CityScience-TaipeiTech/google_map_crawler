@@ -9,8 +9,8 @@ def find_lat_lon(url):
         latitude = float(latitude_match.group(1))
         longitude = float(longitude_match.group(1))
         return latitude, longitude
-    else:
-        return None, None
+    # 
+    return None, None
 
 def within_distance(lat1, lon1, lat2, lon2, max_distance=350):
     coord1 = (lat1, lon1)

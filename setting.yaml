@@ -1,0 +1,9 @@
+DB_HOST: 10.100.2.124
+DB_PORT: 5432
+DB_USER: airflow
+DB_SCHEMAS: postgres
+DB_TABLE: hsinchu_abm
+# 
+
+BASE_SAVE_PATH: ./output
+TARGET_AREA_FILE_PATH: ./data/target.geojson

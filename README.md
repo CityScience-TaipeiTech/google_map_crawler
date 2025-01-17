@@ -3,29 +3,28 @@
 ## 環境
 
 ```shell
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
+pyenv local 3.12.5
+poetry install
+poetry env activate
+source ./venv/activate/bin
+```
+## .env 檔案內容
+```shell 
+DB_PASSWORD=
 ```
 
-## 執行
-
-1. 一次抓取一個類別的所有地點
-
+## Polygon 轉換為 point
 ```shell
-python3 taipei_v1.py
+sh get_points_from_polygon.sh
 ```
+> 要先將想轉化的區域存成 area.geojson 並放到 data folder 中
+> 最後會產出 target.geojson 這是給下一步驟使用的
 
-2. 一次抓取多個類別的所有地點（平行處理：一次處理 CPU 個數的類別）
 
+## 執行 Google map crawler
+一次抓取所有類別的所有地點（平行處理）
 ```shell
-python3 taipei_v2.py
-```
-
-3. 一次抓取所有類別的所有地點（平行處理）
-
-```shell
-python3 taipei_v3.py
+sh start_fetch_poi.sh
 ```
 
 > ⚠️ 會一次開啟 96 個瀏覽器
@@ -35,7 +34,7 @@ python3 taipei_v3.py
 1. 儲存位置
 
 ```shell
-./taipei/<type>.json
+./output/<type>.json
 ```
 
 2. JSON 格式

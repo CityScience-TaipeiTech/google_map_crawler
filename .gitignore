@@ -1,5 +1,13 @@
 venv
+/.venv
 **/__pycache__
 **.DS_Store
+.old
 taipei/
 parking/
+
+# exception to the rule
+!output/.gitkeep 
+!output_clean/.gitkeep 
+/.old.google_map_crawler
+poetry.lock
