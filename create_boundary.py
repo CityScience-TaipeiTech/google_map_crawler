@@ -59,6 +59,7 @@ def create_grid_and_centroids(polygon: Polygon, grid_size: int):
 
 if __name__ == "__main__":
     gdf = gpd.read_file("./data/area.geojson")
+    gdf = gdf.set_crs(epsg=4326, allow_override=True) # 強置轉換以防萬一
     gdf = gdf.to_crs(epsg=3826) # 轉換成公尺單位
     print("==========================================================================")
     print(gdf.head())

@@ -41,7 +41,6 @@ def __stage_message(msg: str):
 # ===================================================================
 
 NUMBER_THREADS = int(cpu_count() / 2)
-NUMBER_THREADS = 1 
 # load setting config
 with open("./setting.yaml", 'r') as file:
     SETTING_CONFIG = yaml.load(file, Loader=yaml.SafeLoader)
