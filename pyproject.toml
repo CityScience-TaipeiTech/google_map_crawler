@@ -18,7 +18,10 @@ dependencies = [
     "sqlalchemy (>=2.0.37,<3.0.0)",
     "pyyaml (>=6.0.2,<7.0.0)",
     "geopandas (>=1.0.1,<2.0.0)",
-    "shapely (>=2.0.6,<3.0.0)"
+    "shapely (>=2.0.6,<3.0.0)",
+    "ipykernel (>=6.29.5,<7.0.0)",
+    "psycopg2-binary (>=2.9.10,<3.0.0)",
+    "click (>=8.1.8,<9.0.0)"
 ]
 
 
